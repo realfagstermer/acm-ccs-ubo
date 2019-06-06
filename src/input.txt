@@ -1,14 +1,14 @@
 A. General Literature
-A.0 GENERAL
+A.0 General
 Biographies/autobiographies
 Conference proceedings
 General literary works (e.g., fiction, plays)
-A.1 INTRODUCTORY AND SURVEY
-A.2 REFERENCE (e.g., dictionaries, encyclopedias, glossaries)
-A.m MISCELLANEOUS
+A.1 Introductory and survey
+A.2 Reference (e.g., dictionaries, encyclopedias, glossaries)
+A.m Miscellaneous
 B. Hardware
-B.0 GENERAL
-B.1 CONTROL STRUCTURES AND MICROPROGRAMMING (D.3.2)
+B.0 General
+B.1 Control structures and microprogramming (D.3.2)
 B.1.0 General
 B.1.1 Control Design Styles
 Hardwired control
@@ -36,7 +36,7 @@ Instruction set interpretation
 Peripheral control
 Special-purpose
 B.1.m Miscellaneous
-B.2 ARITHMETIC AND LOGIC STRUCTURES
+B.2 Arithmetic and logic structures
 B.2.0 General
 B.2.1 Design Styles (C.1.1, C.1.2)
 Calculator
@@ -55,7 +55,7 @@ B.2.4 High-Speed Arithmetic
 Algorithms
 Cost/performance
 B.2.m Miscellaneous
-B.3 MEMORY STRUCTURES
+B.3 Memory structures
 B.3.0 General
 B.3.1 Semiconductor Memories (B.7.1)
 Dynamic memory (DRAM)
@@ -65,7 +65,7 @@ B.3.2 Design Styles (D.4.2)
 Associative memories
 Cache memories
 Interleaved memories
-Mass storage (e.g., magnetic, optical, RAID) 
+Mass storage (e.g., magnetic, optical, RAID)
 Primary memory
 Sequential-access memory
 Shared memory
@@ -80,7 +80,7 @@ Error-checking
 Redundant design
 Test generation
 B.3.m Miscellaneous
-B.4 INPUT/OUTPUT AND DATA COMMUNICATIONS
+B.4 Input/output and data communications
 B.4.0 General
 B.4.1 Data Communications Devices
 Processors
@@ -111,7 +111,7 @@ Hardware reliability
 Redundant design
 Test generation
 B.4.m Miscellaneous
-B.5 REGISTER-TRANSFER-LEVEL IMPLEMENTATION
+B.5 Register-transfer-level implementation
 B.5.0 General
 B.5.1 Design
 Arithmetic and logic units
@@ -132,7 +132,7 @@ Redundant design
 Test generation
 Testability
 B.5.m Miscellaneous
-B.6 LOGIC DESIGN
+B.6 Logic design
 B.6.0 General
 B.6.1 Design Styles
 Cellular arrays and automata
@@ -156,7 +156,7 @@ Simulation
 Switching theory
 Verification
 B.6.m Miscellaneous
-B.7 INTEGRATED CIRCUITS
+B.7 Integrated circuits
 B.7.0 General
 B.7.1 Types and Design Styles
 Advanced technologies
@@ -180,21 +180,21 @@ Redundant design
 Test generation
 Testability
 B.7.m Miscellaneous
-B.8 PERFORMANCE AND RELIABILITY (C.4)
+B.8 Performance and reliability (C.4)
 B.8.0 General
 B.8.1 Reliability, Testing, and Fault-Tolerance
 B.8.2 Performance Analysis and Design Aids
 B.8.m Miscellaneous
-B.m MISCELLANEOUS
+B.m Miscellaneous
 Design management
 C. Computer Systems Organization
-C.0 GENERAL
+C.0 General
 Hardware/software interfaces
-Instruction set design (e.g., RISC, CISC, VLIW) 
+Instruction set design (e.g., RISC, CISC, VLIW)
 Modeling of computer architecture
 System architectures
 Systems specification methodology
-C.1 PROCESSOR ARCHITECTURES
+C.1 Processor architectures
 C.1.0 General
 C.1.1 Single Data Stream Architectures
 Multiple-instruction-stream, single-data-stream processors (MISD)
@@ -215,7 +215,7 @@ C.1.3 Other Architecture Styles
 Adaptable architectures
 Analog computers
 Capability architectures
-Cellular architecture (e.g., mobile) 
+Cellular architecture (e.g., mobile)
 Data-flow architectures
 Heterogeneous (hybrid) systems
 High-level language architectures
@@ -228,11 +228,11 @@ Mobile processors
 C.1.m Miscellaneous
 Analog computers
 Hybrid systems
-C.2 COMPUTER-COMMUNICATION NETWORKS
+C.2 Computer-communication networks
 C.2.0 General
 Data communications
 Open Systems Interconnection reference model (OSI)
-Security and protection (e.g., firewalls) 
+Security and protection (e.g., firewalls)
 C.2.1 Network Architecture and Design
 Asynchronous Transfer Mode (ATM)
 Centralized networks
@@ -242,12 +242,12 @@ Frame relay networks
 ISDN (Integrated Services Digital Network)
 Network communications
 Network topology
-Packet-switching networks 
+Packet-switching networks
 Store and forward networks
 Wireless communication
 C.2.2 Network Protocols
 Applications (SMTP, FTP, etc.)
-Protocol architecture (OSI model) 
+Protocol architecture (OSI model)
 Protocol verification
 Routing protocols
 C.2.3 Network Operations
@@ -259,31 +259,31 @@ Client/server
 Distributed applications
 Distributed databases
 Network operating systems
-C.2.5 Local and Wide-Area Networks 
+C.2.5 Local and Wide-Area Networks
 Access schemes
 Buses
 Ethernet (e.g., CSMA/CD)
 High-speed (e.g., FDDI, fiber channel, ATM)
 Internet (e.g., TCP/IP)
-Token rings 
+Token rings
 C.2.6 Internetworking (C.2.2)
 Routers
 Standards (e.g., TCP/IP)
 C.2.m Miscellaneous
-C.3 SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS (J.7)
+C.3 Special-purpose and application-based systems (J.7)
 Microprocessor/microcomputer applications
 Process control systems
-Real-time and embedded systems 
+Real-time and embedded systems
 Signal processing systems
 Smartcards
-C.4 PERFORMANCE OF SYSTEMS
+C.4 Performance of systems
 Design studies
 Fault tolerance
 Measurement techniques
 Modeling techniques
 Performance attributes
 Reliability, availability, and serviceability
-C.5 COMPUTER SYSTEM IMPLEMENTATION
+C.5 Computer system implementation
 C.5.0 General
 C.5.1 Large and Medium (``Mainframe'') Computers
 Super (very large) computers
@@ -296,10 +296,10 @@ Workstations
 C.5.4 VLSI Systems
 C.5.5 Servers
 C.5.m Miscellaneous
-C.m MISCELLANEOUS
+C.m Miscellaneous
 D. Software
-D.0 GENERAL
-D.1 PROGRAMMING TECHNIQUES (E)
+D.0 General
+D.1 Programming techniques (E)
 D.1.0 General
 D.1.1 Applicative (Functional) Programming
 D.1.2 Automatic Programming (I.2.2)
@@ -311,16 +311,16 @@ D.1.5 Object-oriented Programming
 D.1.6 Logic Programming
 D.1.7 Visual Programming
 D.1.m Miscellaneous
-D.2 SOFTWARE ENGINEERING (K.6.3)
+D.2 Software engineering (K.6.3)
 D.2.0 General (K.5.1)
 Protection mechanisms
 Standards
 D.2.1 Requirements/Specifications (D.3.1)
 Elicitation methods (e.g., rapid prototyping, interviews, JAD)
 Languages
-Methodologies (e.g., object-oriented, structured) 
+Methodologies (e.g., object-oriented, structured)
 Tools
-D.2.2 Design Tools and Techniques 
+D.2.2 Design Tools and Techniques
 Computer-aided software engineering (CASE)
 Decision tables
 Evolutionary prototyping
@@ -334,7 +334,7 @@ State diagrams
 Structured programming
 Top-down programming
 User interfaces
-D.2.3 Coding Tools and Techniques 
+D.2.3 Coding Tools and Techniques
 Object-oriented programming
 Pretty printers
 Program editors
@@ -361,20 +361,20 @@ Dumps
 Error handling and recovery
 Monitors
 Symbolic execution
-Testing tools (e.g., data generators, coverage testing) 
+Testing tools (e.g., data generators, coverage testing)
 Tracing
 D.2.6 Programming Environments
 Graphical environments
 Integrated environments
-Interactive environments 
+Interactive environments
 Programmer workbench
-D.2.7 Distribution, Maintenance, and Enhancement 
+D.2.7 Distribution, Maintenance, and Enhancement
 Corrections
 Documentation
 Enhancement
 Extensibility
 Portability
-Restructuring, reverse engineering, and reengineering 
+Restructuring, reverse engineering, and reengineering
 Version control
 D.2.8 Metrics (D.4.8)
 Complexity measures
@@ -412,14 +412,14 @@ Reuse models
 D.2.m Miscellaneous
 Rapid prototyping
 Reusable software
-D.3 PROGRAMMING LANGUAGES
+D.3 Programming languages
 D.3.0 General
 Standards
 D.3.1 Formal Definitions and Theory (D.2.1, F.3.1, F.3.2, F.4.2, F.4.3)
 Semantics
 Syntax
 D.3.2 Language Classifications
-Applicative (functional) languages 
+Applicative (functional) languages
 Concurrent, distributed, and parallel languages
 Constraint and logic languages
 Data-flow languages
@@ -464,12 +464,12 @@ Retargetable compilers
 Run-time environments
 Translator writing systems and compiler generators
 D.3.m Miscellaneous
-D.4 OPERATING SYSTEMS (C)
+D.4 Operating systems (C)
 D.4.0 General
 D.4.1 Process Management
 Concurrency
 Deadlocks
-Multiprocessing/multiprogramming/multitasking 
+Multiprocessing/multiprogramming/multitasking
 Mutual exclusion
 Scheduling
 Synchronization
@@ -529,44 +529,44 @@ Linkers
 Loaders
 Window managers
 D.4.m Miscellaneous
-D.m MISCELLANEOUS
+D.m Miscellaneous
 Software psychology
 E. Data
-E.0 GENERAL
-E.1 DATA STRUCTURES
+E.0 General
+E.1 Data structures
 Arrays
 Distributed data structures
-Graphs and networks 
-Lists, stacks, and queues 
+Graphs and networks
+Lists, stacks, and queues
 Records
 Tables
 Trees
-E.2 DATA STORAGE REPRESENTATIONS
+E.2 Data storage representations
 Composite structures
 Contiguous representations
 Hash-table representations
 Linked representations
 Object representation
 Primitive data items
-E.3 DATA ENCRYPTION
+E.3 Data encryption
 Code breaking
 Data encryption standard (DES)
 Public key cryptosystems
 Standards (e.g., DES, PGP, RSA)
-E.4 CODING AND INFORMATION THEORY (H.1.1)
+E.4 Coding and information theory (H.1.1)
 Data compaction and compression
 Error control codes
 Formal models of communication
 Nonsecret encoding schemes
-E.5 FILES (D.4.3, F.2.2, H.2)
+E.5 Files (D.4.3, F.2.2, H.2)
 Backup/recovery
 Optimization
 Organization/structure
 Sorting/searching
-E.m MISCELLANEOUS
+E.m Miscellaneous
 F. Theory of Computation
-F.0 GENERAL
-F.1 COMPUTATION BY ABSTRACT DEVICES
+F.0 General
+F.1 Computation by abstract devices
 F.1.0 General
 F.1.1 Models of Computation (F.4.1)
 Automata (e.g., finite, push-down, resource-bounded)
@@ -577,7 +577,7 @@ Self-modifying machines (e.g., neural networks)
 Unbounded-action devices (e.g., cellular automata, circuits, networks of machines)
 F.1.2 Modes of Computation
 Alternation and nondeterminism
-Interactive and reactive computation 
+Interactive and reactive computation
 Online computation
 Parallelism and concurrency
 Probabilistic computation
@@ -590,7 +590,7 @@ Reducibility and completeness
 Relations among complexity classes
 Relations among complexity measures
 F.1.m Miscellaneous
-F.2 ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY (B.6, B.7, F.1.3)
+F.2 Analysis of algorithms and problem complexity (B.6, B.7, F.1.3)
 F.2.0 General
 F.2.1 Numerical Algorithms and Problems (G.1, G.4, I.1)
 Computation of transforms (e.g., fast Fourier transform)
@@ -608,7 +608,7 @@ Sequencing and scheduling
 Sorting and searching
 F.2.3 Tradeoffs between Complexity Measures (F.1.3)
 F.2.m Miscellaneous
-F.3 LOGICS AND MEANINGS OF PROGRAMS
+F.3 Logics and meanings of programs
 F.3.0 General
 F.3.1 Specifying and Verifying and Reasoning about Programs (D.2.1, D.2.4, D.3.1, E.1)
 Assertions
@@ -631,13 +631,13 @@ Object-oriented constructs
 Program and recursion schemes
 Type structure
 F.3.m Miscellaneous
-F.4 MATHEMATICAL LOGIC AND FORMAL LANGUAGES
+F.4 Mathematical logic and formal languages
 F.4.0 General
 F.4.1 Mathematical Logic (F.1.1, I.2.2, I.2.3, I.2.4)
 Computability theory
 Computational logic
 Lambda calculus and related systems
-Logic and constraint programming 
+Logic and constraint programming
 Mechanical theorem proving
 Modal logic
 Model theory
@@ -658,13 +658,13 @@ Classes defined by resource-bounded automata
 Decision problems
 Operations on languages
 F.4.m Miscellaneous
-F.m MISCELLANEOUS
+F.m Miscellaneous
 G. Mathematics of Computing
-G.0 GENERAL
-G.1 NUMERICAL ANALYSIS
+G.0 General
+G.1 Numerical analysis
 G.1.0 General
 Computer arithmetic
-Conditioning (and ill-conditioning) 
+Conditioning (and ill-conditioning)
 Error analysis
 Interval arithmetic
 Multiple precision arithmetic
@@ -693,22 +693,22 @@ Wavelets and fractals
 G.1.3 Numerical Linear Algebra
 Conditioning
 Determinants
-Eigenvalues and eigenvectors (direct and iterative methods) 
+Eigenvalues and eigenvectors (direct and iterative methods)
 Error analysis
 Linear systems (direct and iterative methods)
 Matrix inversion
 Pseudoinverses
 Singular value decomposition
-Sparse, structured, and very large systems (direct and iterative methods) 
+Sparse, structured, and very large systems (direct and iterative methods)
 G.1.4 Quadrature and Numerical Differentiation (F.2.1)
-Adaptive and iterative quadrature 
+Adaptive and iterative quadrature
 Automatic differentiation
 Equal interval integration
 Error analysis
 Finite difference methods
 Gaussian quadrature
 Iterative methods
-Multidimensional (multiple) quadrature 
+Multidimensional (multiple) quadrature
 G.1.5 Roots of Nonlinear Equations
 Continuation (homotopy) methods
 Convergence
@@ -737,13 +737,13 @@ Differential-algebraic equations
 Error analysis
 Finite difference methods
 Initial value problems
-Multistep and multivalue methods 
-One-step (single step) methods 
+Multistep and multivalue methods
+One-step (single step) methods
 Stiff equations
 G.1.8 Partial Differential Equations
 Domain decomposition methods
 Elliptic equations
-Finite difference methods 
+Finite difference methods
 Finite element methods
 Finite volume methods
 Hyperbolic equations
@@ -760,7 +760,7 @@ Integro-differential equations
 Volterra equations
 G.1.10 Applications
 G.1.m Miscellaneous
-G.2 DISCRETE MATHEMATICS
+G.2 Discrete mathematics
 G.2.0 General
 G.2.1 Combinatorics (F.2.2)
 Combinatorial algorithms
@@ -777,7 +777,7 @@ Path and circuit problems
 Trees
 G.2.3 Applications
 G.2.m Miscellaneous
-G.3 PROBABILITY AND STATISTICS
+G.3 Probability and statistics
 Contingency table analysis
 Correlation and regression analysis
 Distribution functions
@@ -796,8 +796,8 @@ Statistical software
 Stochastic processes
 Survival analysis
 Time series analysis
-G.4 MATHEMATICAL SOFTWARE
-Algorithm design and analysis 
+G.4 Mathematical software
+Algorithm design and analysis
 Certification and testing
 Documentation
 Efficiency
@@ -806,11 +806,11 @@ Portability
 Reliability and robustness
 User interfaces
 Verification
-G.m MISCELLANEOUS
+G.m Miscellaneous
 Queueing theory
 H. Information Systems
-H.0 GENERAL
-H.1 MODELS AND PRINCIPLES
+H.0 General
+H.1 Models and principles
 H.1.0 General
 H.1.1 Systems and Information Theory (E.4)
 General systems theory
@@ -821,7 +821,7 @@ Human factors
 Human information processing
 Software psychology
 H.1.m Miscellaneous
-H.2 DATABASE MANAGEMENT (E.5)
+H.2 Database management (E.5)
 H.2.0 General
 Security, integrity, and protection
 H.2.1 Logical Design
@@ -840,7 +840,7 @@ Query languages
 Report writers
 H.2.4 Systems
 Concurrency
-Distributed databases 
+Distributed databases
 Multimedia databases
 Object-oriented databases
 Parallel databases
@@ -865,7 +865,7 @@ Scientific databases
 Spatial databases and GIS
 Statistical databases
 H.2.m Miscellaneous
-H.3 INFORMATION STORAGE AND RETRIEVAL
+H.3 Information storage and retrieval
 H.3.0 General
 H.3.1 Content Analysis and Indexing
 Abstracting methods
@@ -893,7 +893,7 @@ Question-answering (fact retrieval) systems
 User profiles and alert services
 H.3.5 Online Information Services
 Commercial services
-Data sharing 
+Data sharing
 Web-based services
 H.3.6 Library Automation
 Large text archives
@@ -904,7 +904,7 @@ Standards
 Systems issues
 User issues
 H.3.m Miscellaneous
-H.4 INFORMATION SYSTEMS APPLICATIONS
+H.4 Information systems applications
 H.4.0 General
 H.4.1 Office Automation (I.7)
 Desktop publishing
@@ -919,16 +919,16 @@ Decision support (e.g., MIS)
 Logistics
 H.4.3 Communications Applications
 Bulletin boards
-Computer conferencing, teleconferencing, and videoconferencing 
+Computer conferencing, teleconferencing, and videoconferencing
 Electronic mail
 Information browsers
 Videotex
 H.4.m Miscellaneous
-H.5 INFORMATION INTERFACES AND PRESENTATION (e.g., HCI) (I.7)
+H.5 Information interfaces and presentation (e.g., HCI) (I.7)
 H.5.0 General
 H.5.1 Multimedia Information Systems
 Animations
-Artificial, augmented, and virtual realities 
+Artificial, augmented, and virtual realities
 Audio input/output
 Evaluation/methodology
 Hypertext navigation and maps
@@ -973,10 +973,10 @@ Modeling
 Signal analysis, synthesis, and processing
 Systems
 H.5.m Miscellaneous
-H.m MISCELLANEOUS
+H.m Miscellaneous
 I. Computing Methodologies
-I.0 GENERAL
-I.1 SYMBOLIC AND ALGEBRAIC MANIPULATION 
+I.0 General
+I.1 Symbolic and algebraic manipulation
 I.1.0 General
 I.1.1 Expressions and Their Representation (E.1, E.2)
 Representations (general and polynomial)
@@ -993,7 +993,7 @@ Special-purpose hardware
 Substitution mechanisms
 I.1.4 Applications
 I.1.m Miscellaneous
-I.2 ARTIFICIAL INTELLIGENCE
+I.2 Artificial intelligence
 I.2.0 General
 Cognitive simulation
 Philosophical foundations
@@ -1082,7 +1082,7 @@ Intelligent agents
 Languages and structures
 Multiagent systems
 I.2.m Miscellaneous
-I.3 COMPUTER GRAPHICS
+I.3 Computer graphics
 I.3.0 General
 I.3.1 Hardware Architecture (B.4.2)
 Graphics processors
@@ -1142,11 +1142,11 @@ Virtual reality
 Visible line/surface algorithms
 I.3.8 Applications
 I.3.m Miscellaneous
-I.4 IMAGE PROCESSING AND COMPUTER VISION 
+I.4 Image processing and computer vision
 I.4.0 General
 Image displays
 Image processing software
-I.4.1 Digitization and Image Capture 
+I.4.1 Digitization and Image Capture
 Camera calibration
 Imaging geometry
 Quantization
@@ -1207,7 +1207,7 @@ Multidimensional
 Statistical
 Volumetric
 I.4.m Miscellaneous
-I.5 PATTERN RECOGNITION
+I.5 Pattern recognition
 I.5.0 General
 I.5.1 Models
 Deterministic
@@ -1232,7 +1232,7 @@ I.5.5 Implementation (C.3)
 Interactive systems
 Special architectures
 I.5.m Miscellaneous
-I.6 SIMULATION AND MODELING (G.3)
+I.6 Simulation and modeling (G.3)
 I.6.0 General
 I.6.1 Simulation Theory
 Model classification
@@ -1257,9 +1257,9 @@ Monte Carlo
 Parallel
 Visual
 I.6.m Miscellaneous
-I.7 DOCUMENT AND TEXT PROCESSING  (H.4, H.5)
+I.7 Document and text processing  (H.4, H.5)
 I.7.0 General
-I.7.1 Document and Text Editing 
+I.7.1 Document and Text Editing
 Document management
 Languages
 Spelling
@@ -1283,10 +1283,10 @@ Graphics recognition and interpretation
 Optical character recognition (OCR)
 Scanning
 I.7.m Miscellaneous
-I.m MISCELLANEOUS
+I.m Miscellaneous
 J. Computer Applications
-J.0 GENERAL
-J.1 ADMINISTRATIVE DATA PROCESSING
+J.0 General
+J.1 Administrative data processing
 Business
 Education
 Financial (e.g., EFTS)
@@ -1295,7 +1295,7 @@ Law
 Manufacturing
 Marketing
 Military
-J.2 PHYSICAL SCIENCES AND ENGINEERING
+J.2 Physical sciences and engineering
 Aerospace
 Archaeology
 Astronomy
@@ -1305,15 +1305,15 @@ Electronics
 Engineering
 Mathematics and statistics
 Physics
-J.3 LIFE AND MEDICAL SCIENCES
-Biology and genetics 
+J.3 Life and medical sciences
+Biology and genetics
 Health
 Medical information systems
-J.4 SOCIAL AND BEHAVIORAL SCIENCES
+J.4 Social and behavioral sciences
 Economics
 Psychology
 Sociology
-J.5 ARTS AND HUMANITIES
+J.5 Arts and humanities
 Architecture
 Arts, fine and performing
 Fine arts
@@ -1322,10 +1322,10 @@ Linguistics
 Literature
 Music
 Performing arts (e.g., dance, music)
-J.6 COMPUTER-AIDED ENGINEERING
+J.6 Computer-aided engineering
 Computer-aided design (CAD)
 Computer-aided manufacturing (CAM)
-J.7 COMPUTERS IN OTHER SYSTEMS (C.3)
+J.7 Computers in other systems (C.3)
 Command and control
 Consumer products
 Industrial control
@@ -1333,21 +1333,21 @@ Military
 Process control
 Publishing
 Real time
-J.m MISCELLANEOUS
+J.m Miscellaneous
 K. Computing Milieux
-K.0 GENERAL
-K.1 THE COMPUTER INDUSTRY
+K.0 General
+K.1 The Computer Industry
 Markets
 Standards
 Statistics
 Suppliers
-K.2 HISTORY OF COMPUTING
+K.2 History of Computing
 Hardware
 People
 Software
 Systems
 Theory
-K.3 COMPUTERS AND EDUCATION
+K.3 Computers and Education
 K.3.0 General
 K.3.1 Computer Uses in Education
 Collaborative learning
@@ -1364,7 +1364,7 @@ Self-assessment
 K.3.m Miscellaneous
 Accreditation
 Computer literacy
-K.4 COMPUTERS AND SOCIETY
+K.4 Computers and society
 K.4.0 General
 K.4.1 Public Policy Issues
 Abuse and crime involving computers
@@ -1394,9 +1394,9 @@ Intellectual property
 Payment schemes
 Security
 K.4.m Miscellaneous
-K.5 LEGAL ASPECTS OF COMPUTING
+K.5 Legal aspects of computing
 K.5.0 General
-K.5.1 Hardware/Software Protection 
+K.5.1 Hardware/Software Protection
 Copyrights
 Licensing
 Patents
@@ -1409,7 +1409,7 @@ Taxation
 K.5.m Miscellaneous
 Contracts
 Hardware patents
-K.6 MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS
+K.6 Management of computing and information systems
 K.6.0 General
 Economics
 K.6.1 Project and People Management
@@ -1444,7 +1444,7 @@ Unauthorized access (e.g., hacking, phreaking)
 K.6.m Miscellaneous
 Insurance [*]
 Security [*]
-K.7 THE COMPUTING PROFESSION
+K.7 The computing profession
 K.7.0 General
 K.7.1 Occupations
 K.7.2 Organizations
@@ -1456,7 +1456,7 @@ Ethical dilemmas
 K.7.m Miscellaneous
 Codes of good practice
 Ethics
-K.8 PERSONAL COMPUTING
+K.8 Personal computing
 Games [*]
 K.8.0 General
 Games
@@ -1470,4 +1470,4 @@ Word processing
 K.8.2 Hardware
 K.8.3 Management/Maintenance
 K.8.m Miscellaneous
-K.m MISCELLANEOUS
+K.m Miscellaneous

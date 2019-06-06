@@ -24,7 +24,7 @@ ccs:c00ccfe03-8367-46e5-bf1a-aca7e1387022 a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.7" ;
-    skos:prefLabel "COMPUTERS IN OTHER SYSTEMS (C.3)"@en .
+    skos:prefLabel "Computers in other systems (C.3)"@en .
 
 ccs:c013d5ac8-4c4a-4a67-80c7-b53ce0186c4a a skos:Concept ;
     skos:broader ccs:ca936102d-42f9-470f-aac5-0448ddb28621 ;
@@ -92,7 +92,7 @@ ccs:c083c769c-dc6b-4a09-a721-09dcd0c49943 a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.1" ;
-    skos:prefLabel "ADMINISTRATIVE DATA PROCESSING"@en .
+    skos:prefLabel "Administrative data processing"@en .
 
 ccs:c0ce338ab-bcbf-478e-a3c6-9060585dbcca a skos:Concept ;
     skos:broader ccs:c73376f8b-8f11-4a74-85d1-4aacd43d28b2 ;
@@ -188,7 +188,7 @@ ccs:c1883e7fb-34d8-4c00-aca3-49e70c9d226e a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c19284d96-6afe-40a9-91ec-4b49a1f7fcd3 a skos:Concept ;
     skos:altLabel "Codes of good practice"@en,
@@ -208,14 +208,14 @@ ccs:c19ad7437-cf5a-41e9-8e63-da990b8e2c62 a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.2" ;
-    skos:prefLabel "DATA STORAGE REPRESENTATIONS"@en .
+    skos:prefLabel "Data storage representations"@en .
 
 ccs:c19d23be6-4db9-46c7-9421-0bbc9d6e1880 a skos:Concept ;
     skos:altLabel "Design management"@en ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c1a061323-fe91-4c67-9716-37f84d2e5435 a skos:Concept ;
     skos:altLabel "Applications (SMTP, FTP, etc.)"@en,
@@ -258,7 +258,7 @@ ccs:c1c083621-220f-4987-b22c-7ea17cbe4e15 a skos:Concept ;
     skos:broader ccs:c3bd62a9e-64c2-4a54-be4f-aecfeb4f98de ;
     skos:inScheme ccs: ;
     skos:notation "A.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c1e3ba33f-aa54-44cb-9355-c7f3cd41e029 a skos:Concept ;
     skos:altLabel "Constrained optimization"@en,
@@ -524,7 +524,7 @@ ccs:c2f70f420-cdff-4962-bb74-7362fa837a6a a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.4" ;
-    skos:prefLabel "PERFORMANCE OF SYSTEMS"@en .
+    skos:prefLabel "Performance of systems"@en .
 
 ccs:c2fb6b3e0-afb7-4346-ae62-9e91897ebe3f a skos:Concept ;
     skos:altLabel "Algebraic approaches to semantics"@en,
@@ -577,7 +577,7 @@ ccs:c30f19a13-81b3-4320-9994-a33b739fda3b a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.1" ;
-    skos:prefLabel "DATA STRUCTURES"@en .
+    skos:prefLabel "Data structures"@en .
 
 ccs:c3157b169-60ce-44f6-8973-0a405d170665 a skos:Concept ;
     skos:broader ccs:c8a6d943a-caee-456b-860d-9370d67a0bb4 ;
@@ -635,7 +635,7 @@ ccs:c3813c94a-aa3e-4079-8304-d294e491a8dd a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c3820c608-b0bb-4c98-a34a-c3ffcd589142 a skos:Concept ;
     skos:altLabel "Large text archives"@en ;
@@ -784,7 +784,7 @@ ccs:c41f789c5-e5bb-4f9c-82a1-08005597d2e7 a skos:Concept ;
     skos:broader ccs:c3bd62a9e-64c2-4a54-be4f-aecfeb4f98de ;
     skos:inScheme ccs: ;
     skos:notation "A.2" ;
-    skos:prefLabel "REFERENCE (e.g., dictionaries, encyclopedias, glossaries)"@en .
+    skos:prefLabel "Reference (e.g., dictionaries, encyclopedias, glossaries)"@en .
 
 ccs:c42ceec2d-677f-4ac7-8396-a072bd1c0a38 a skos:Concept ;
     skos:altLabel "Data compaction and compression"@en,
@@ -794,19 +794,19 @@ ccs:c42ceec2d-677f-4ac7-8396-a072bd1c0a38 a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.4" ;
-    skos:prefLabel "CODING AND INFORMATION THEORY (H.1.1)"@en .
+    skos:prefLabel "Coding and information theory (H.1.1)"@en .
 
 ccs:c44be6bea-2803-4c82-8495-221685cf1395 a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c46b23156-1e5b-401a-8b1b-55528f22ad64 a skos:Concept ;
     skos:broader ccs:c3bd62a9e-64c2-4a54-be4f-aecfeb4f98de ;
     skos:inScheme ccs: ;
     skos:notation "A.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c470435d2-3d0e-4ec4-8108-fdc2a520eb42 a skos:Concept ;
     skos:broader ccs:c73376f8b-8f11-4a74-85d1-4aacd43d28b2 ;
@@ -838,7 +838,7 @@ ccs:c49389303-3c48-4cac-927e-928ed620ed92 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.1" ;
-    skos:prefLabel "THE COMPUTER INDUSTRY"@en .
+    skos:prefLabel "The Computer Industry"@en .
 
 ccs:c4b2e361e-d1bf-4cf5-b5b8-b3bad246b162 a skos:Concept ;
     skos:altLabel "Inverse filtering"@en,
@@ -896,7 +896,7 @@ ccs:c4d1f9a8e-77ba-469f-af39-06cfe910e54b a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.4" ;
-    skos:prefLabel "MATHEMATICAL SOFTWARE"@en .
+    skos:prefLabel "Mathematical software"@en .
 
 ccs:c4d70a3c0-5148-4e90-b26d-b54f4e39910f a skos:Concept ;
     skos:altLabel "Document management"@en,
@@ -1078,7 +1078,7 @@ ccs:c5e011716-72d6-4c59-aefd-fb6a0b63d628 a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c5f2a900c-6de4-441b-961c-68b302128df6 a skos:Concept ;
     skos:broader ccs:cbf18b7d7-672b-4da9-8d96-6ce79fe50141 ;
@@ -1162,7 +1162,7 @@ ccs:c66b562d9-3fc5-441b-a80c-fd3e6f2239f6 a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.3" ;
-    skos:prefLabel "SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS (J.7)"@en .
+    skos:prefLabel "Special-purpose and application-based systems (J.7)"@en .
 
 ccs:c66cb1b12-b94e-44a2-8094-a54cd003b778 a skos:Concept ;
     skos:broader ccs:c1c49a4d0-2e47-4f6b-aedc-7f06e4791777 ;
@@ -1279,7 +1279,7 @@ ccs:c7063338a-bdfd-42f5-b1a5-938d21f10396 a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c7118be85-dce1-444f-bd89-4cd655324819 a skos:Concept ;
     skos:broader ccs:ce9ec10a3-9398-40df-95a9-cad48e455d3c ;
@@ -1291,7 +1291,7 @@ ccs:c7189af09-cd5f-4b7f-b2a4-4ba5c23caa1b a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c71a0e4b2-5678-4a25-9e9a-4454f43bba6f a skos:Concept ;
     skos:altLabel "Built-in tests"@en,
@@ -1318,7 +1318,7 @@ ccs:c7269d407-9b6c-491c-93fc-38a73c84f4cb a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.2" ;
-    skos:prefLabel "PHYSICAL SCIENCES AND ENGINEERING"@en .
+    skos:prefLabel "Physical sciences and engineering"@en .
 
 ccs:c7369ef77-44a9-4af4-8070-ca99005a76a5 a skos:Concept ;
     skos:altLabel "Abstracting methods"@en,
@@ -1353,7 +1353,7 @@ ccs:c75255e6d-ac5a-482c-8ee0-1e5f3dd94a20 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c764daec9-3aaf-4879-b412-3cbf5bf44c36 a skos:Concept ;
     skos:broader ccs:ca936102d-42f9-470f-aac5-0448ddb28621 ;
@@ -1387,7 +1387,7 @@ ccs:c77751829-ab68-4575-8454-b56a22bda31d a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.6" ;
-    skos:prefLabel "COMPUTER-AIDED ENGINEERING"@en .
+    skos:prefLabel "Computer-aided engineering"@en .
 
 ccs:c77a5c6fd-6d45-45cd-b8e4-739829627767 a skos:Concept ;
     skos:altLabel "Graphics processors"@en,
@@ -1548,7 +1548,7 @@ ccs:c8566bb72-9668-471d-a55f-8b6813262ef6 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c85e180a2-1b88-40f0-89b7-735a74fe6c7b a skos:Concept ;
     skos:broader ccs:c1be49650-ae5a-434f-a0de-903be3fdd931 ;
@@ -1591,7 +1591,7 @@ ccs:c8790cc9b-640d-4ae2-a02d-abdfb4b3f4ef a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c890d05aa-409a-42d0-8db0-f59b020dbf6d a skos:Concept ;
     skos:altLabel "Authentication"@en,
@@ -1720,7 +1720,7 @@ ccs:c8ea8dd48-1238-4f9b-aab6-9e5c2da8bd97 a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c8edd07c8-b08d-4619-a819-89e525bf5b5b a skos:Concept ;
     skos:broader ccs:cecab054f-c882-45fe-8f78-edb61d0410e3 ;
@@ -1776,7 +1776,7 @@ ccs:c93ee8f9c-1a4d-4269-9ea0-7674460dcb11 a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:c947957e9-2ef4-4a66-aa9d-562e26d4ab8b a skos:Concept ;
     skos:altLabel "Control primitives"@en,
@@ -1844,7 +1844,7 @@ ccs:c980fd02c-d8e3-424c-ab2d-ebc2d6d861c7 a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.3" ;
-    skos:prefLabel "LIFE AND MEDICAL SCIENCES"@en .
+    skos:prefLabel "Life and medical sciences"@en .
 
 ccs:c99075da4-7a83-4fe8-af1e-d92bb80a5781 a skos:Concept ;
     skos:altLabel "Answer/reason extraction"@en,
@@ -1865,7 +1865,7 @@ ccs:c99702d94-df32-4c87-b600-b8f5019e8e38 a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:c99a84427-25e0-4957-bee6-b03f0c1782d7 a skos:Concept ;
     skos:altLabel "Data communications"@en,
@@ -2009,7 +2009,7 @@ ccs:ca309ff60-bf7c-4c2b-bdb7-1c0d6ae02f5e a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:ca46b168f-0c4a-4c7d-a2d0-316e4685fc24 a skos:Concept ;
     skos:altLabel "Algorithms"@en,
@@ -2088,7 +2088,7 @@ ccs:cae164f20-ecf6-43f2-841d-80c51607d457 a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:caec80450-07b2-4843-a5fe-788e3892f801 a skos:Concept ;
     skos:altLabel "Accreditation"@en,
@@ -2106,7 +2106,7 @@ ccs:cb0552961-53db-4c88-a6ab-9cb8493f0a48 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:cb144532c-e6b1-4c69-9a73-f5faf95565d5 a skos:Concept ;
     skos:altLabel "Complexity hierarchies"@en,
@@ -2153,7 +2153,7 @@ ccs:cb3ffd14f-3b88-4e21-afdc-9e22a2b4518f a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.4" ;
-    skos:prefLabel "SOCIAL AND BEHAVIORAL SCIENCES"@en .
+    skos:prefLabel "Social and behavioral sciences"@en .
 
 ccs:cb4540555-27a9-4fdd-84d8-73670f815dc8 a skos:Concept ;
     skos:altLabel "Benchmarks"@en,
@@ -2275,7 +2275,7 @@ ccs:cbf0bb6bf-bd3b-4530-8687-c03e3618c779 a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:cc01445e0-9a9c-4fc1-b3b0-1b8d8df65e1c a skos:Concept ;
     skos:broader ccs:c8d5c4724-93f7-4856-805a-d97ab7ab961d ;
@@ -2340,7 +2340,7 @@ ccs:cc4538c47-c6ad-4c84-9db3-01fd10ffee3c a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.3" ;
-    skos:prefLabel "PROBABILITY AND STATISTICS"@en .
+    skos:prefLabel "Probability and statistics"@en .
 
 ccs:cc48e354e-7941-45a9-b4bd-fef9d393d3db a skos:Concept ;
     skos:broader ccs:c7377530f-83cd-4a9b-85c3-471da4b0948c ;
@@ -2367,7 +2367,7 @@ ccs:cc62fd0ac-119a-4606-9fb1-814a8cf1e2df a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.0" ;
-    skos:prefLabel "GENERAL"@en .
+    skos:prefLabel "General"@en .
 
 ccs:cc63237be-7a8b-4a9d-8ab4-5d7cf828ea4b a skos:Concept ;
     skos:broader ccs:cf4ef7b8f-6c88-43f4-ba7b-30d0136b33c7 ;
@@ -2414,7 +2414,7 @@ ccs:cc82d21fd-b3db-49e8-9f46-2f463ee0c6cd a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:cc834caf5-6f44-45dd-bffc-d80ba93b472c a skos:Concept ;
     skos:altLabel "Human factors"@en,
@@ -2470,7 +2470,7 @@ ccs:cd1213726-a305-401b-93a5-5713143595d7 a skos:Concept ;
     skos:broader ccs:c3bd62a9e-64c2-4a54-be4f-aecfeb4f98de ;
     skos:inScheme ccs: ;
     skos:notation "A.1" ;
-    skos:prefLabel "INTRODUCTORY AND SURVEY"@en .
+    skos:prefLabel "Introductory and survey"@en .
 
 ccs:cd1e995e8-f9c2-462c-8ae2-4630de9c0689 a skos:Concept ;
     skos:altLabel "Delay equations"@en,
@@ -2490,7 +2490,7 @@ ccs:cd37f9fca-81b1-47eb-a99b-e2998ff4757b a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.3" ;
-    skos:prefLabel "DATA ENCRYPTION"@en .
+    skos:prefLabel "Data encryption"@en .
 
 ccs:cd4336b7c-a71d-48f3-b8a5-1486248d83cc a skos:Concept ;
     skos:altLabel "Discourse"@en,
@@ -2638,7 +2638,7 @@ ccs:ce12c7fe7-e25a-4c82-bbe9-204153ab9e86 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.2" ;
-    skos:prefLabel "HISTORY OF COMPUTING"@en .
+    skos:prefLabel "History of Computing"@en .
 
 ccs:ce236daf5-fade-49eb-ac5b-bc341db51bc6 a skos:Concept ;
     skos:altLabel "Conditioning"@en,
@@ -2659,7 +2659,7 @@ ccs:ce23cc0b1-e767-46c6-86a4-59e275cbc46a a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.m" ;
-    skos:prefLabel "MISCELLANEOUS"@en .
+    skos:prefLabel "Miscellaneous"@en .
 
 ccs:ce2924e12-81a6-458e-ac65-d36f8bf91705 a skos:Concept ;
     skos:altLabel "Distributed/network graphics"@en,
@@ -2682,7 +2682,7 @@ ccs:ce2b3f030-262b-4f16-acfd-16f9cffedec5 a skos:Concept ;
     skos:broader ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 ;
     skos:inScheme ccs: ;
     skos:notation "J.5" ;
-    skos:prefLabel "ARTS AND HUMANITIES"@en .
+    skos:prefLabel "Arts and humanities"@en .
 
 ccs:ce4ad2257-5637-425a-bb83-33210cfc18b7 a skos:Concept ;
     skos:altLabel "Rapid prototyping"@en,
@@ -2750,7 +2750,7 @@ ccs:ced66634e-6d2c-4fa9-bbf5-a6df781426d3 a skos:Concept ;
     skos:broader ccs:cca9b852b-9494-43e0-858e-919c7eee31a1 ;
     skos:inScheme ccs: ;
     skos:notation "E.5" ;
-    skos:prefLabel "FILES (D.4.3, F.2.2, H.2)"@en .
+    skos:prefLabel "Files (D.4.3, F.2.2, H.2)"@en .
 
 ccs:ceda61e6a-45c7-4434-a02c-65aaca49620b a skos:Concept ;
     skos:altLabel "Batch processing systems"@en,
@@ -3027,86 +3027,86 @@ ccs:c6eb8f041-b3f4-42e4-9386-ed933373c965 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.5" ;
-    skos:prefLabel "LEGAL ASPECTS OF COMPUTING"@en .
+    skos:prefLabel "Legal aspects of computing"@en .
 
 ccs:c82039421-1bf8-4138-80fe-c19b0c1e407d a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.8" ;
-    skos:prefLabel "PERFORMANCE AND RELIABILITY (C.4)"@en .
+    skos:prefLabel "Performance and reliability (C.4)"@en .
 
 ccs:c969d8d69-b664-462c-b2ce-e2cc82022e09 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.3" ;
-    skos:prefLabel "COMPUTERS AND EDUCATION"@en .
+    skos:prefLabel "Computers and Education"@en .
 
 ccs:cc93123d1-846e-417b-aa2d-84e9b1a27af3 a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.1" ;
-    skos:prefLabel "MODELS AND PRINCIPLES"@en .
+    skos:prefLabel "Models and principles"@en .
 
 ccs:c4cca765a-fa3b-4f35-9fdb-9ada272b8543 a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.2" ;
-    skos:prefLabel "ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY (B.6, B.7, F.1.3)"@en .
+    skos:prefLabel "Analysis of algorithms and problem complexity (B.6, B.7, F.1.3)"@en .
 
 ccs:c5217be65-5d01-40a9-b344-a71d3da378d3 a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.2" ;
-    skos:prefLabel "DISCRETE MATHEMATICS"@en .
+    skos:prefLabel "Discrete mathematics"@en .
 
 ccs:c65a1aaa1-6690-4714-828e-a77d3157d315 a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.5" ;
-    skos:prefLabel "REGISTER-TRANSFER-LEVEL IMPLEMENTATION"@en .
+    skos:prefLabel "Register-transfer-level implementation"@en .
 
 ccs:c69c4261f-7d0a-4170-af80-6f2ad74e23bb a skos:Concept ;
     skos:altLabel "Games [*]"@en ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.8" ;
-    skos:prefLabel "PERSONAL COMPUTING"@en .
+    skos:prefLabel "Personal computing"@en .
 
 ccs:c7377530f-83cd-4a9b-85c3-471da4b0948c a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.4" ;
-    skos:prefLabel "MATHEMATICAL LOGIC AND FORMAL LANGUAGES"@en .
+    skos:prefLabel "Mathematical logic and formal languages"@en .
 
 ccs:c95b3aa27-165f-4e46-99a8-33404c6c8c1d a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.1" ;
-    skos:prefLabel "COMPUTATION BY ABSTRACT DEVICES"@en .
+    skos:prefLabel "Computation by abstract devices"@en .
 
 ccs:c963a0252-8e1e-4bea-9e30-2b12ae4f38ca a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
     skos:inScheme ccs: ;
     skos:notation "F.3" ;
-    skos:prefLabel "LOGICS AND MEANINGS OF PROGRAMS"@en .
+    skos:prefLabel "Logics and meanings of programs"@en .
 
 ccs:cb5b24876-6707-40fc-88c7-3662cc695bc0 a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.6" ;
-    skos:prefLabel "LOGIC DESIGN"@en .
+    skos:prefLabel "Logic design"@en .
 
 ccs:cbf18b7d7-672b-4da9-8d96-6ce79fe50141 a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.4" ;
-    skos:prefLabel "INFORMATION SYSTEMS APPLICATIONS"@en .
+    skos:prefLabel "Information systems applications"@en .
 
 ccs:cf4ef7b8f-6c88-43f4-ba7b-30d0136b33c7 a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.7" ;
-    skos:prefLabel "INTEGRATED CIRCUITS"@en .
+    skos:prefLabel "Integrated circuits"@en .
 
 ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3118,19 +3118,19 @@ ccs:c2c352ae7-a7fd-4340-bcd8-168c07e21e24 a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.3" ;
-    skos:prefLabel "PROGRAMMING LANGUAGES"@en .
+    skos:prefLabel "Programming languages"@en .
 
 ccs:c2cd3cb57-3643-4810-9330-803113aff3ea a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.7" ;
-    skos:prefLabel "THE COMPUTING PROFESSION"@en .
+    skos:prefLabel "The computing profession"@en .
 
 ccs:c42897990-1ae2-43ad-ab78-5c4d8d215cef a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.1" ;
-    skos:prefLabel "SYMBOLIC AND ALGEBRAIC MANIPULATION"@en .
+    skos:prefLabel "Symbolic and algebraic manipulation"@en .
 
 ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3142,7 +3142,7 @@ ccs:c54387260-d931-47d2-962e-c2169e6f9dfe a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.2" ;
-    skos:prefLabel "ARITHMETIC AND LOGIC STRUCTURES"@en .
+    skos:prefLabel "Arithmetic and logic structures"@en .
 
 ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3154,55 +3154,55 @@ ccs:c8a6d943a-caee-456b-860d-9370d67a0bb4 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.4" ;
-    skos:prefLabel "COMPUTERS AND SOCIETY"@en .
+    skos:prefLabel "Computers and society"@en .
 
 ccs:c8d5c4724-93f7-4856-805a-d97ab7ab961d a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.3" ;
-    skos:prefLabel "MEMORY STRUCTURES"@en .
+    skos:prefLabel "Memory structures"@en .
 
 ccs:cff0af072-6afa-488e-bbdc-a0dad27448fb a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.1" ;
-    skos:prefLabel "PROCESSOR ARCHITECTURES"@en .
+    skos:prefLabel "Processor architectures"@en .
 
 ccs:c00531682-276f-48bc-82b3-af9b16476b5f a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.5" ;
-    skos:prefLabel "COMPUTER SYSTEM IMPLEMENTATION"@en .
+    skos:prefLabel "Computer system implementation"@en .
 
 ccs:c181919a7-71d8-48f8-be94-617b535a2e51 a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.1" ;
-    skos:prefLabel "CONTROL STRUCTURES AND MICROPROGRAMMING (D.3.2)"@en .
+    skos:prefLabel "Control structures and microprogramming (D.3.2)"@en .
 
 ccs:c1be49650-ae5a-434f-a0de-903be3fdd931 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.7" ;
-    skos:prefLabel "DOCUMENT AND TEXT PROCESSING  (H.4, H.5)"@en .
+    skos:prefLabel "Document and text processing  (H.4, H.5)"@en .
 
 ccs:c1c49a4d0-2e47-4f6b-aedc-7f06e4791777 a skos:Concept ;
     skos:broader ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b ;
     skos:inScheme ccs: ;
     skos:notation "B.4" ;
-    skos:prefLabel "INPUT/OUTPUT AND DATA COMMUNICATIONS"@en .
+    skos:prefLabel "Input/output and data communications"@en .
 
 ccs:c61984098-b7e4-42c0-a21b-560bd5846b76 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.5" ;
-    skos:prefLabel "PATTERN RECOGNITION"@en .
+    skos:prefLabel "Pattern recognition"@en .
 
 ccs:c6cc8dbd5-0445-44ce-b967-f6fb4fa30105 a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.5" ;
-    skos:prefLabel "INFORMATION INTERFACES AND PRESENTATION (e.g., HCI) (I.7)"@en .
+    skos:prefLabel "Information interfaces and presentation (e.g., HCI) (I.7)"@en .
 
 ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3220,7 +3220,7 @@ ccs:cdf5891d7-7bd9-4c52-ada9-b95b7ba59f76 a skos:Concept ;
     skos:broader ccs:c74eb2ff8-0618-48d6-b5b8-6870b4c399f4 ;
     skos:inScheme ccs: ;
     skos:notation "K.6" ;
-    skos:prefLabel "MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS"@en .
+    skos:prefLabel "Management of computing and information systems"@en .
 
 ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3232,7 +3232,7 @@ ccs:c1c60b860-d5cd-4250-a739-01ce25395b99 a skos:Concept ;
     skos:broader ccs:cfb3df385-b17b-4b64-a397-ee63e691aa91 ;
     skos:inScheme ccs: ;
     skos:notation "C.2" ;
-    skos:prefLabel "COMPUTER-COMMUNICATION NETWORKS"@en .
+    skos:prefLabel "Computer-communication networks"@en .
 
 ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3244,13 +3244,13 @@ ccs:c73376f8b-8f11-4a74-85d1-4aacd43d28b2 a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.3" ;
-    skos:prefLabel "INFORMATION STORAGE AND RETRIEVAL"@en .
+    skos:prefLabel "Information storage and retrieval"@en .
 
 ccs:c7f29ce1a-7835-477b-9a40-b053179cd087 a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.1" ;
-    skos:prefLabel "PROGRAMMING TECHNIQUES (E)"@en .
+    skos:prefLabel "Programming techniques (E)"@en .
 
 ccs:cdcadb2a1-15c9-42d6-8993-17a30268a0b5 a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3262,7 +3262,7 @@ ccs:c20a59cf3-97e1-4ae3-b3d3-f4e96522fb51 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.6" ;
-    skos:prefLabel "SIMULATION AND MODELING (G.3)"@en .
+    skos:prefLabel "Simulation and modeling (G.3)"@en .
 
 ccs:c59946f56-985a-4465-8295-0d5cdbc0ab2b a skos:Concept ;
     skos:inScheme ccs: ;
@@ -3280,41 +3280,41 @@ ccs:ca936102d-42f9-470f-aac5-0448ddb28621 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.3" ;
-    skos:prefLabel "COMPUTER GRAPHICS"@en .
+    skos:prefLabel "Computer graphics"@en .
 
 ccs:ce9ec10a3-9398-40df-95a9-cad48e455d3c a skos:Concept ;
     skos:broader ccs:cb3fac7cd-66da-45bc-b28f-fb3279657235 ;
     skos:inScheme ccs: ;
     skos:notation "H.2" ;
-    skos:prefLabel "DATABASE MANAGEMENT (E.5)"@en .
+    skos:prefLabel "Database management (E.5)"@en .
 
 ccs:cc94973e1-9da3-409f-9846-dff2ac09b4db a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.4" ;
-    skos:prefLabel "OPERATING SYSTEMS (C)"@en .
+    skos:prefLabel "Operating systems (C)"@en .
 
 ccs:c39675008-507e-4052-aa16-1d1ac5de599f a skos:Concept ;
     skos:broader ccs:c8a1b331f-05fc-4e85-b75d-ad7907c49236 ;
     skos:inScheme ccs: ;
     skos:notation "G.1" ;
-    skos:prefLabel "NUMERICAL ANALYSIS"@en .
+    skos:prefLabel "Numerical analysis"@en .
 
 ccs:cecab054f-c882-45fe-8f78-edb61d0410e3 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.4" ;
-    skos:prefLabel "IMAGE PROCESSING AND COMPUTER VISION"@en .
+    skos:prefLabel "Image processing and computer vision"@en .
 
 ccs:c6b62b55d-1e8d-4426-807f-69ee2e1da237 a skos:Concept ;
     skos:broader ccs:c1543552a-02a2-4dd4-bcc0-ee00b68d389e ;
     skos:inScheme ccs: ;
     skos:notation "I.2" ;
-    skos:prefLabel "ARTIFICIAL INTELLIGENCE"@en .
+    skos:prefLabel "Artificial intelligence"@en .
 
 ccs:c2f3d3a20-bd45-454a-8f13-d970587d700a a skos:Concept ;
     skos:broader ccs:c184b2338-1e1f-4ed4-a672-f513c131cadd ;
     skos:inScheme ccs: ;
     skos:notation "D.2" ;
-    skos:prefLabel "SOFTWARE ENGINEERING (K.6.3)"@en .
+    skos:prefLabel "Software engineering (K.6.3)"@en .
 
