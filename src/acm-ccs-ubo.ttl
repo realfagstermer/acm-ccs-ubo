@@ -1,0 +1,2952 @@
+@prefix ccs: <http://data.ub.uio.no/ams-ccs-ubo/> .
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0097024d-4e21-4586-908f-cde08f318fea> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1" ;
+    ns1:prefLabel "PROCESSOR ARCHITECTURES"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/03fbe8ad-6050-4418-a20d-d4002e0546df> a ns1:Concept ;
+    ns1:altLabel "Computer-aided software engineering (CASE)"@en,
+        "Decision tables"@en,
+        "Evolutionary prototyping"@en,
+        "Flow charts"@en,
+        "Modules and interfaces"@en,
+        "Object-oriented design methods"@en,
+        "Petri nets"@en,
+        "Programmer workbench"@en,
+        "Software libraries"@en,
+        "State diagrams"@en,
+        "Structured programming"@en,
+        "Top-down programming"@en,
+        "User interfaces"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.2" ;
+    ns1:prefLabel "Design Tools and Techniques"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0620d372-9f65-4936-8007-57cc00d7e18e> a ns1:Concept ;
+    ns1:altLabel "Codes of good practice"@en,
+        "Ethics"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/06382759-812c-4fcb-9af8-141673f0b8ff> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K" ;
+    ns1:prefLabel "Computing Milieux"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/065eeeab-7a2c-4da2-8618-2b83bca94d4a> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C" ;
+    ns1:prefLabel "Computer Systems Organization"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/07a89354-8376-498b-88b5-1015a0ce4ad9> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/08c16a66-140f-4243-8368-38866ccfc840> a ns1:Concept ;
+    ns1:altLabel "Analog computers"@en,
+        "Hybrid systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/08f22954-b9f4-4e9d-9f18-4fc34c85f549> a ns1:Concept ;
+    ns1:altLabel "Graphics processors"@en,
+        "Hardcopy devices"@en,
+        "Input devices"@en,
+        "Parallel processing"@en,
+        "Raster display devices"@en,
+        "Storage devices"@en,
+        "Three-dimensional displays"@en,
+        "Vector display devices"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.1" ;
+    ns1:prefLabel "Hardware Architecture (B.4.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/092f5e42-a30a-4dac-bbc4-fe7883b571bf> a ns1:Concept ;
+    ns1:altLabel "Classifier design and evaluation"@en,
+        "Feature evaluation and selection"@en,
+        "Pattern analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.2" ;
+    ns1:prefLabel "Design Methodology"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/09aa1fc6-310f-4612-9e7b-bee6c1013421> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "A.1" ;
+    ns1:prefLabel "INTRODUCTORY AND SURVEY"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/09cab135-a356-4ed4-89da-9b67b93468a4> a ns1:Concept ;
+    ns1:altLabel "Cognitive simulation"@en,
+        "Philosophical foundations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0a6d94e6-2feb-49f6-9737-30f28f1e0c19> a ns1:Concept ;
+    ns1:altLabel "Document management"@en,
+        "Languages"@en,
+        "Spelling"@en,
+        "Version control"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.1" ;
+    ns1:prefLabel "Document and Text Editing"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0a7d2ec1-386e-4f65-8c74-6a1312af2b2a> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0b11aa1e-59a4-497c-aae6-3e8d49822f10> a ns1:Concept ;
+    ns1:altLabel "Design management"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0b9f17f1-bf69-4e9f-a823-3166d174380b> a ns1:Concept ;
+    ns1:altLabel "Business"@en,
+        "Education"@en,
+        "Financial (e.g., EFTS)"@en,
+        "Government"@en,
+        "Law"@en,
+        "Manufacturing"@en,
+        "Marketing"@en,
+        "Military"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.1" ;
+    ns1:prefLabel "ADMINISTRATIVE DATA PROCESSING"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0c9592e0-6de1-4432-a83c-cc061ab74527> a ns1:Concept ;
+    ns1:altLabel "Markets"@en,
+        "Standards"@en,
+        "Statistics"@en,
+        "Suppliers"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.1" ;
+    ns1:prefLabel "THE COMPUTER INDUSTRY"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0cd40ef2-8d10-4469-be23-9039407013c3> a ns1:Concept ;
+    ns1:altLabel "Distributed programming"@en,
+        "Parallel programming"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.3" ;
+    ns1:prefLabel "Concurrent Programming"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0ce10b7e-cc69-45da-b460-dad6fa376f2e> a ns1:Concept ;
+    ns1:altLabel "Cartography"@en,
+        "Games"@en,
+        "Industrial automation"@en,
+        "Law"@en,
+        "Medicine and science"@en,
+        "Natural language interfaces"@en,
+        "Office automation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.1" ;
+    ns1:prefLabel "Applications and Expert Systems (H.4, J)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0d8820bb-3875-468b-acb1-daf75fdf9fe4> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2" ;
+    ns1:prefLabel "ARTIFICIAL INTELLIGENCE"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0dd6301b-36f7-4d76-b4e5-ed1774ed81ca> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.6" ;
+    ns1:prefLabel "Database Machines"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0f46a5c6-bcba-4915-9058-6525035eec3c> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.5.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/0ffe58b9-debe-4c44-b091-b060926d5b29> a ns1:Concept ;
+    ns1:altLabel "Microprocessors"@en,
+        "Personal computers"@en,
+        "Portable devices (e.g., laptops, personal digital assistants)"@en,
+        "Workstations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.3" ;
+    ns1:prefLabel "Microcomputers"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/108b08ca-a6cb-4f02-b13b-1ec02decc0f1> a ns1:Concept ;
+    ns1:altLabel "Arrays"@en,
+        "Distributed data structures"@en,
+        "Graphs and networks"@en,
+        "Lists, stacks, and queues"@en,
+        "Records"@en,
+        "Tables"@en,
+        "Trees"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.1" ;
+    ns1:prefLabel "DATA STRUCTURES"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/10a3fd64-bb87-41b1-8b29-5112162f6e1f> a ns1:Concept ;
+    ns1:altLabel "Associative memories"@en,
+        "Cache memories"@en,
+        "Interleaved memories"@en,
+        "Mass storage (e.g., magnetic, optical, RAID)"@en,
+        "Primary memory"@en,
+        "Sequential-access memory"@en,
+        "Shared memory"@en,
+        "Virtual memory"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.2" ;
+    ns1:prefLabel "Design Styles (D.4.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1175ba3c-6cdb-498c-bde0-1c89acedb1a3> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1187d1ba-0c4b-4703-895b-74d4c90397c4> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/11be46a2-4ee8-4865-b69f-21fc150eb3db> a ns1:Concept ;
+    ns1:altLabel "Auditory (non-speech) feedback"@en,
+        "Benchmarking"@en,
+        "Ergonomics"@en,
+        "Evaluation/methodology"@en,
+        "Graphical user interfaces (GUI)"@en,
+        "Haptic I/O"@en,
+        "Input devices and strategies (e.g., mouse, touchscreen)"@en,
+        "Interaction styles (e.g., commands, menus, forms, direct manipulation)"@en,
+        "Natural language"@en,
+        "Prototyping"@en,
+        "Screen design (e.g., text, graphics, color)"@en,
+        "Standardization"@en,
+        "Style guides"@en,
+        "Theory and methods"@en,
+        "Training, help, and documentation"@en,
+        "User interface management systems (UIMS)"@en,
+        "User-centered design"@en,
+        "Voice I/O"@en,
+        "Windowing systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.2" ;
+    ns1:prefLabel "User Interfaces (D.2.2, H.1.2, I.3.6)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1337a33c-81ba-4604-96c9-c64a3101d429> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G" ;
+    ns1:prefLabel "Mathematics of Computing"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/133a34c1-e378-4409-b708-dad7b43a49bc> a ns1:Concept ;
+    ns1:altLabel "Aerospace"@en,
+        "Archaeology"@en,
+        "Astronomy"@en,
+        "Chemistry"@en,
+        "Earth and atmospheric sciences"@en,
+        "Electronics"@en,
+        "Engineering"@en,
+        "Mathematics and statistics"@en,
+        "Physics"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.2" ;
+    ns1:prefLabel "PHYSICAL SCIENCES AND ENGINEERING"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/13de4b97-24d7-42da-bb6b-a20a0d6e7e37> a ns1:Concept ;
+    ns1:altLabel "Representations (general and polynomial)"@en,
+        "Simplification of expressions"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.1" ;
+    ns1:prefLabel "Expressions and Their Representation (E.1, E.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1483ba54-b11c-40ac-85d5-4cdf0a6ccb96> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/14b40a16-5335-4d29-b53a-00902ad5fb55> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3" ;
+    ns1:prefLabel "COMPUTER GRAPHICS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/15b2ab0b-ad35-4923-8689-0dc52ea69240> a ns1:Concept ;
+    ns1:altLabel "Direct data manipulation"@en,
+        "Firmware support of operating systems/instruction sets"@en,
+        "Instruction set interpretation"@en,
+        "Peripheral control"@en,
+        "Special-purpose"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.5" ;
+    ns1:prefLabel "Microcode Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/15c4b2d3-8462-48d2-ab78-aff1ce086415> a ns1:Concept ;
+    ns1:altLabel "Code breaking"@en,
+        "Data encryption standard (DES)"@en,
+        "Public key cryptosystems"@en,
+        "Standards (e.g., DES, PGP, RSA)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.3" ;
+    ns1:prefLabel "DATA ENCRYPTION"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/16452402-627c-453e-8309-b77ff7adb6b9> a ns1:Concept ;
+    ns1:altLabel "Games [*]"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8" ;
+    ns1:prefLabel "PERSONAL COMPUTING"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/171a883f-d3cc-47cf-b638-faea98040791> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/172e8e2d-6f58-4e48-90f2-95dd9fd60871> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1752f358-16da-46de-9e53-49f26e62722d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.7" ;
+    ns1:prefLabel "Visual Programming"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1767f100-4886-44f5-b9a1-1390f8873448> a ns1:Concept ;
+    ns1:altLabel "Model classification"@en,
+        "Systems theory"@en,
+        "Types of simulation (continuous and discrete) [*]"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.1" ;
+    ns1:prefLabel "Simulation Theory"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/17e798b0-1acd-4775-b9fb-016e80f097d8> a ns1:Concept ;
+    ns1:altLabel "Built-in tests"@en,
+        "Diagnostics"@en,
+        "Error-checking"@en,
+        "Hardware reliability"@en,
+        "Redundant design"@en,
+        "Test generation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.5" ;
+    ns1:prefLabel "Reliability, Testing, and Fault-Tolerance (B.8)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/183e232c-bb6d-457f-86f4-0ec42a856c08> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.4" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/19754ff7-d060-4261-ad68-da8be614626d> a ns1:Concept ;
+    ns1:altLabel "Commercial services"@en,
+        "Data sharing"@en,
+        "Web-based services"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.5" ;
+    ns1:prefLabel "Online Information Services"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1982d0c5-a548-4274-a146-efb60ccaec06> a ns1:Concept ;
+    ns1:altLabel "Applications (SMTP, FTP, etc.)"@en,
+        "Protocol architecture (OSI model)"@en,
+        "Protocol verification"@en,
+        "Routing protocols"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.2" ;
+    ns1:prefLabel "Network Protocols"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/199108fe-54ad-4c2b-b8b7-deb3a56fdd0f> a ns1:Concept ;
+    ns1:altLabel "Diagnostics"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.3" ;
+    ns1:prefLabel "Control Structure Reliability, Testing, and Fault-Tolerance (B.8)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/19934f60-18a6-4d8e-8043-5b6d62adfa34> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.2" ;
+    ns1:prefLabel "Automatic Programming (I.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/19b78c1d-1de3-4517-aa09-10c9ae9b552d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1a13ae3a-8891-4519-922d-3da516884c68> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2.3" ;
+    ns1:prefLabel "Tradeoffs between Complexity Measures (F.1.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1a5fb48e-4356-48da-a98a-fe08a0812c3f> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H" ;
+    ns1:prefLabel "Information Systems"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1aaac435-221f-4ff5-b9dd-1a1778000e0f> a ns1:Concept ;
+    ns1:altLabel "Inverse filtering"@en,
+        "Kalman filtering"@en,
+        "Pseudoinverse restoration"@en,
+        "Wiener filtering"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.4" ;
+    ns1:prefLabel "Restoration"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1ac0f1f5-241c-485c-b3f9-bbe1eb01bfe6> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "A" ;
+    ns1:prefLabel "General Literature"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1b89d2af-fe80-4c26-b60b-e35574735f6a> a ns1:Concept ;
+    ns1:altLabel "Edge and feature detection"@en,
+        "Pixel classification"@en,
+        "Region growing, partitioning"@en,
+        "Relaxation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.6" ;
+    ns1:prefLabel "Segmentation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/1e9d47e7-cc4a-4714-88fb-bf4702787540> a ns1:Concept ;
+    ns1:altLabel "Array and vector processors"@en,
+        "Associative processors"@en,
+        "Connection machines"@en,
+        "Interconnection architectures (e.g., common bus, multiport memory, crossbar switch)"@en,
+        "Multiple-instruction-stream, multiple-data-stream processors (MIMD)"@en,
+        "Parallel processors"@en,
+        "Pipeline processors"@en,
+        "Single-instruction-stream, multiple-data-stream processors (SIMD)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.2" ;
+    ns1:prefLabel "Multiple Data Stream Architectures (Multiprocessors)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/20610964-e7cd-492f-92b5-965237920c7f> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/207b2972-d336-4138-bbd1-d8e4ef0a7bf7> a ns1:Concept ;
+    ns1:altLabel "Complexity hierarchies"@en,
+        "Machine-independent complexity"@en,
+        "Reducibility and completeness"@en,
+        "Relations among complexity classes"@en,
+        "Relations among complexity measures"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1.3" ;
+    ns1:prefLabel "Complexity Measures and Classes  (F.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/20f1ae0f-d52e-4b46-9dd1-504b149b916b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/22e7adac-8636-41cf-9ae8-7ba162c8042f> a ns1:Concept ;
+    ns1:altLabel "Deterministic"@en,
+        "Fuzzy set"@en,
+        "Geometric"@en,
+        "Neural nets"@en,
+        "Statistical"@en,
+        "Structural"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.1" ;
+    ns1:prefLabel "Models"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/24a0e03f-466d-4e22-9376-56a93589fd9d> a ns1:Concept ;
+    ns1:altLabel "Processors"@en,
+        "Receivers (e.g., voice, data, image)"@en,
+        "Transmitters"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.1" ;
+    ns1:prefLabel "Data Communications Devices"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2542d62c-3294-4b3e-9224-324025e9b856> a ns1:Concept ;
+    ns1:altLabel "Current awareness systems (selective dissemination of information--SDI)"@en,
+        "Distributed systems"@en,
+        "Information networks"@en,
+        "Performance evaluation (efficiency and effectiveness)"@en,
+        "Question-answering (fact retrieval) systems"@en,
+        "User profiles and alert services"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.4" ;
+    ns1:prefLabel "Systems and Software"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/25fcc9d8-3310-4d32-af57-43c1f389d24a> a ns1:Concept ;
+    ns1:altLabel "Contingency table analysis"@en,
+        "Correlation and regression analysis"@en,
+        "Distribution functions"@en,
+        "Experimental design"@en,
+        "Markov processes"@en,
+        "Multivariate statistics"@en,
+        "Nonparametric statistics"@en,
+        "Probabilistic algorithms (including Monte Carlo)"@en,
+        "Queueing theory"@en,
+        "Random number generation"@en,
+        "Reliability and life testing"@en,
+        "Renewal theory"@en,
+        "Robust regression"@en,
+        "Statistical computing"@en,
+        "Statistical software"@en,
+        "Stochastic processes"@en,
+        "Survival analysis"@en,
+        "Time series analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.3" ;
+    ns1:prefLabel "PROBABILITY AND STATISTICS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/262b2189-9bd2-45c8-8fb1-c34d5da0a30b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/265b0a48-da78-4dd7-b4ee-603682dfe60d> a ns1:Concept ;
+    ns1:altLabel "Graph algorithms"@en,
+        "Graph labeling"@en,
+        "Hypergraphs"@en,
+        "Network problems"@en,
+        "Path and circuit problems"@en,
+        "Trees"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2.2" ;
+    ns1:prefLabel "Graph Theory (F.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/279aff08-df4d-4b3c-9046-f33da1661114> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/27af6307-6e99-4ad0-9e5f-2496d4e0ac0d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.2" ;
+    ns1:prefLabel "Organizations"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/27b84f4a-2641-499f-ab2b-bf046e5eb9dd> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2b33c8c0-2f9f-4c7e-9702-5080a4689ddc> a ns1:Concept ;
+    ns1:altLabel "Abuse and crime involving computers"@en,
+        "Assistive technologies for persons with disabilities"@en,
+        "Employment"@en,
+        "Handicapped persons/special needs"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.2" ;
+    ns1:prefLabel "Social Issues"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2c6186d2-fbc6-44d4-a2f0-a0e163435067> a ns1:Concept ;
+    ns1:altLabel "Evaluation strategies"@en,
+        "Nonprocedural languages"@en,
+        "Special-purpose algebraic systems"@en,
+        "Special-purpose hardware"@en,
+        "Substitution mechanisms"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.3" ;
+    ns1:prefLabel "Languages and Systems (D.3.2, D.3.3, F.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2d011f0d-1b49-40e1-b696-18193453aef7> a ns1:Concept ;
+    ns1:altLabel "Data communications"@en,
+        "Database processing"@en,
+        "Freeware/shareware"@en,
+        "Graphics"@en,
+        "Spreadsheets"@en,
+        "Word processing"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8.1" ;
+    ns1:prefLabel "Application Packages"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2d202ef0-0030-4647-85b6-325b86da261b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.10" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2e436614-35bd-4d08-bf4c-84fd03962da5> a ns1:Concept ;
+    ns1:altLabel "Concurrency"@en,
+        "Distributed databases"@en,
+        "Multimedia databases"@en,
+        "Object-oriented databases"@en,
+        "Parallel databases"@en,
+        "Query processing"@en,
+        "Relational databases"@en,
+        "Rule-based databases"@en,
+        "Textual databases"@en,
+        "Transaction processing"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.4" ;
+    ns1:prefLabel "Systems"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2f8b0574-0b39-4532-8c82-94983d18357d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E" ;
+    ns1:prefLabel "Data"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/2fbf76d5-70cd-4093-a8dd-8aeffff1272a> a ns1:Concept ;
+    ns1:altLabel "Antialiasing"@en,
+        "Bitmap and framebuffer operations"@en,
+        "Digitizing and scanning"@en,
+        "Display algorithms"@en,
+        "Line and curve generation"@en,
+        "Viewing algorithms"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.3" ;
+    ns1:prefLabel "Picture/Image Generation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/30afcd5c-b49c-4fa9-acd2-14ef84d7777c> a ns1:Concept ;
+    ns1:altLabel "Combinatorial algorithms"@en,
+        "Counting problems"@en,
+        "Generating functions"@en,
+        "Permutations and combinations"@en,
+        "Recurrences and difference equations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2.1" ;
+    ns1:prefLabel "Combinatorics (F.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/32ab63d7-cec4-48d7-acc9-36d8dec22897> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/32d9819a-a0d1-4911-8142-01edbb43f849> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.8" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/336687c8-f488-42b4-b475-af95035c4b9d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/34a9edb3-8bdd-4c0d-9f32-da02c8866602> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J" ;
+    ns1:prefLabel "Computer Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/34cce6fc-87d2-4e1d-820d-0a9a37f2c760> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.3" ;
+    ns1:prefLabel "Index Generation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/34f2ef3f-c5a6-4d98-a8ea-b7c0c76c9ffc> a ns1:Concept ;
+    ns1:altLabel "Censorship"@en,
+        "Regulation"@en,
+        "Taxation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.5.2" ;
+    ns1:prefLabel "Governmental Issues"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/35b819df-e448-4cb4-ad94-ef99167149b3> a ns1:Concept ;
+    ns1:altLabel "Document analysis"@en,
+        "Graphics recognition and interpretation"@en,
+        "Optical character recognition (OCR)"@en,
+        "Scanning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.5" ;
+    ns1:prefLabel "Document Capture(I.4.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/37873a9a-eef4-4586-833c-e32e99b32722> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.3" ;
+    ns1:prefLabel "Testing, Certification, and Licensing"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/384cd459-5ef2-408d-8b01-a69ffe6af258> a ns1:Concept ;
+    ns1:altLabel "Animation"@en,
+        "Combined"@en,
+        "Continuous"@en,
+        "Discrete event"@en,
+        "Distributed"@en,
+        "Gaming"@en,
+        "Monte Carlo"@en,
+        "Parallel"@en,
+        "Visual"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.8" ;
+    ns1:prefLabel "Types of Simulation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/387a5a7e-bba2-4f94-87ae-6789ff135f1e> a ns1:Concept ;
+    ns1:altLabel "Application packages"@en,
+        "Device drivers"@en,
+        "Graphics editors"@en,
+        "Graphics packages"@en,
+        "Meta files"@en,
+        "Paint systems"@en,
+        "Picture description languages"@en,
+        "Software support"@en,
+        "Virtual device interfaces"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.4" ;
+    ns1:prefLabel "Graphics Utilities"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/38af2f73-65f1-49c7-bf51-e2ffa603e2ad> a ns1:Concept ;
+    ns1:altLabel "Data mapping"@en,
+        "Distributed objects"@en,
+        "Interface definition languages"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.12" ;
+    ns1:prefLabel "Interoperability"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3948cb88-9972-42e9-8ddc-b9e39a194470> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2" ;
+    ns1:prefLabel "DATABASE MANAGEMENT (E.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/39a53dc0-75ef-469a-a7d2-a95f28fcb7ff> a ns1:Concept ;
+    ns1:altLabel "Hierarchical"@en,
+        "Morphological"@en,
+        "Multidimensional"@en,
+        "Statistical"@en,
+        "Volumetric"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.10" ;
+    ns1:prefLabel "Image Representation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/39c138d3-5beb-4e1b-9d06-3787592d3aa6> a ns1:Concept ;
+    ns1:altLabel "Copyrights"@en,
+        "Cost estimation"@en,
+        "Life cycle"@en,
+        "Productivity"@en,
+        "Programming teams"@en,
+        "Software configuration management"@en,
+        "Software process models (e.g., CMM, ISO, PSP)"@en,
+        "Software quality assurance (SQA)"@en,
+        "Time estimation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.9" ;
+    ns1:prefLabel "Management (K.6.3, K.6.4)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/39e5c3ea-a5dc-4620-a61e-0bbe5a485e48> a ns1:Concept ;
+    ns1:altLabel "Elicitation methods (e.g., rapid prototyping, interviews, JAD)"@en,
+        "Languages"@en,
+        "Methodologies (e.g., object-oriented, structured)"@en,
+        "Tools"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.1" ;
+    ns1:prefLabel "Requirements/Specifications (D.3.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/39f35825-abf4-4661-95ae-46b1e36e440c> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4" ;
+    ns1:prefLabel "MATHEMATICAL LOGIC AND FORMAL LANGUAGES"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3a3232f8-a949-4405-8a1a-7cba70ee7cff> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F" ;
+    ns1:prefLabel "Theory of Computation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3b94d5f9-4d6a-432c-8df7-62b4d96151a2> a ns1:Concept ;
+    ns1:altLabel "Data description languages (DDL)"@en,
+        "Data manipulation languages (DML)"@en,
+        "Database (persistent) programming languages"@en,
+        "Query languages"@en,
+        "Report writers"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.3" ;
+    ns1:prefLabel "Languages (D.3.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3bd1b18f-e1f6-4121-9172-43d51a2a9495> a ns1:Concept ;
+    ns1:altLabel "Routers"@en,
+        "Standards (e.g., TCP/IP)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.6" ;
+    ns1:prefLabel "Internetworking (C.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3d03343e-8b0e-4625-b5ce-4aee7398f168> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3d21df99-9c6a-4e5c-af8d-4e9018424bc4> a ns1:Concept ;
+    ns1:altLabel "Architectures"@en,
+        "Navigation"@en,
+        "Theory"@en,
+        "User issues"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.4" ;
+    ns1:prefLabel "Hypertext/Hypermedia (I.7, J.7)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/3f2b0cb2-ed28-490c-8238-4031ea459090> a ns1:Concept ;
+    ns1:altLabel "General systems theory"@en,
+        "Information theory"@en,
+        "Value of information"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.1.1" ;
+    ns1:prefLabel "Systems and Information Theory (E.4)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/438190a9-4ea5-4eb8-a92c-8f6a6b3e4fee> a ns1:Concept ;
+    ns1:altLabel "Composite structures"@en,
+        "Contiguous representations"@en,
+        "Hash-table representations"@en,
+        "Linked representations"@en,
+        "Object representation"@en,
+        "Primitive data items"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.2" ;
+    ns1:prefLabel "DATA STORAGE REPRESENTATIONS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/438b641e-8ad6-4a8d-b025-909ca63cb9d0> a ns1:Concept ;
+    ns1:altLabel "Design studies"@en,
+        "Fault tolerance"@en,
+        "Measurement techniques"@en,
+        "Modeling techniques"@en,
+        "Performance attributes"@en,
+        "Reliability, availability, and serviceability"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.4" ;
+    ns1:prefLabel "PERFORMANCE OF SYSTEMS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/438b94c6-262b-4cce-9e5e-dc2e79a0e66b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6" ;
+    ns1:prefLabel "MANAGEMENT OF COMPUTING AND INFORMATION SYSTEMS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/455072d2-1ffc-458f-b12d-401fcd7687ea> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/455f3d37-5cfb-4dc7-90c6-f8b668af3644> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.6" ;
+    ns1:prefLabel "Logic Programming"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/45ccb5f2-a0af-43f4-b20d-d5d00ca2e721> a ns1:Concept ;
+    ns1:altLabel "Assertions"@en,
+        "Invariants"@en,
+        "Logics of programs"@en,
+        "Mechanical verification"@en,
+        "Pre- and post-conditions"@en,
+        "Specification techniques"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3.1" ;
+    ns1:prefLabel "Specifying and Verifying and Reasoning about Programs (D.2.1, D.2.4, D.3.1, E.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/46b7c45a-bdd2-44d3-923a-25dfeba74c62> a ns1:Concept ;
+    ns1:altLabel "Software psychology"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/472b1042-4526-4308-9d07-120d58728d19> a ns1:Concept ;
+    ns1:altLabel "Algorithms"@en,
+        "Similarity measures"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.3" ;
+    ns1:prefLabel "Clustering"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/47d5ff3f-f6a2-4243-b4e5-13f9f848bd77> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5" ;
+    ns1:prefLabel "REGISTER-TRANSFER-LEVEL IMPLEMENTATION"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/481e5c67-bae8-4654-8d6a-c1304d519041> a ns1:Concept ;
+    ns1:altLabel "Applicative (functional) languages"@en,
+        "Concurrent, distributed, and parallel languages"@en,
+        "Constraint and logic languages"@en,
+        "Data-flow languages"@en,
+        "Design languages"@en,
+        "Extensible languages"@en,
+        "Macro and assembly languages"@en,
+        "Microprogramming languages"@en,
+        "Multiparadigm languages"@en,
+        "Nondeterministic languages"@en,
+        "Nonprocedural languages"@en,
+        "Object-oriented languages"@en,
+        "Specialized application languages"@en,
+        "Very high-level languages"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.2" ;
+    ns1:prefLabel "Language Classifications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/48a12036-c48c-40c2-b05f-286c8106c38f> a ns1:Concept ;
+    ns1:altLabel "Filtering"@en,
+        "Geometric correction"@en,
+        "Grayscale manipulation"@en,
+        "Registration"@en,
+        "Sharpening and deblurring"@en,
+        "Smoothing"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.3" ;
+    ns1:prefLabel "Enhancement"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/48be1691-b2ac-4565-bf53-4796ef18ba41> a ns1:Concept ;
+    ns1:altLabel "Backup/recovery"@en,
+        "Optimization"@en,
+        "Organization/structure"@en,
+        "Sorting/searching"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.5" ;
+    ns1:prefLabel "FILES (D.4.3, F.2.2, H.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/48dd941b-0ac1-42cf-a52f-08f84c38cc71> a ns1:Concept ;
+    ns1:altLabel "Buffering"@en,
+        "Input/output"@en,
+        "Message sending"@en,
+        "Network communication"@en,
+        "Terminal management"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.4" ;
+    ns1:prefLabel "Communications Management (C.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/49116c4d-06ee-4d70-a6a7-c920a8f9fc8c> a ns1:Concept ;
+    ns1:altLabel "Graphics"@en,
+        "Layout"@en,
+        "Placement and routing"@en,
+        "Simulation"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7.2" ;
+    ns1:prefLabel "Design Aids"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/492fbf0e-357b-4f98-a0d6-8619dd0c7875> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1" ;
+    ns1:prefLabel "PROGRAMMING TECHNIQUES (E)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4948b352-9a10-419b-b71d-3d28d2f4d098> a ns1:Concept ;
+    ns1:altLabel "Formal models"@en,
+        "Simulation"@en,
+        "Verification"@en,
+        "Worst-case analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.4" ;
+    ns1:prefLabel "Performance Analysis and Design Aids (B.8)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4a0dfeae-51e1-4bfc-bd6b-09abe90eabab> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4a4d1cfa-ca96-4a63-b0bf-d64e5f1c159e> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4b7d9644-1eb2-4841-8e89-0ecd8370ad7c> a ns1:Concept ;
+    ns1:altLabel "Algebraic algorithms"@en,
+        "Analysis of algorithms"@en,
+        "Nonalgebraic algorithms"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.2" ;
+    ns1:prefLabel "Algorithms (F.2.1, F.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4c326275-811d-4698-bb6b-a27ff8834291> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2" ;
+    ns1:prefLabel "COMPUTER-COMMUNICATION NETWORKS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4c3e0a2a-a61c-4aba-b538-2d89bd5d9e0e> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4d936ad0-0d27-4435-aefa-2f346d38a536> a ns1:Concept ;
+    ns1:altLabel "Asynchronous Transfer Mode (ATM)"@en,
+        "Centralized networks"@en,
+        "Circuit-switching networks"@en,
+        "Distributed networks"@en,
+        "Frame relay networks"@en,
+        "ISDN (Integrated Services Digital Network)"@en,
+        "Network communications"@en,
+        "Network topology"@en,
+        "Packet-switching networks"@en,
+        "Store and forward networks"@en,
+        "Wireless communication"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.1" ;
+    ns1:prefLabel "Network Architecture and Design"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4dfdc46c-0edd-4c8b-923c-679f6e53cb3c> a ns1:Concept ;
+    ns1:altLabel "Backup procedures"@en,
+        "Checkpoint/restart"@en,
+        "Fault-tolerance"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.5" ;
+    ns1:prefLabel "Reliability"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4e1dba23-3702-46f8-bc5e-099030000747> a ns1:Concept ;
+    ns1:altLabel "Analogies"@en,
+        "Concept learning"@en,
+        "Connectionism and neural nets"@en,
+        "Induction"@en,
+        "Knowledge acquisition"@en,
+        "Language acquisition"@en,
+        "Parameter learning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.6" ;
+    ns1:prefLabel "Learning (K.3.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4f10072a-0d47-4946-b705-02198e39183e> a ns1:Concept ;
+    ns1:altLabel "Discourse"@en,
+        "Language generation"@en,
+        "Language models"@en,
+        "Language parsing and understanding"@en,
+        "Machine translation"@en,
+        "Speech recognition and synthesis"@en,
+        "Text analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.7" ;
+    ns1:prefLabel "Natural Language Processing"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/4f8f4df9-426a-40b1-b51e-b766b43e0c02> a ns1:Concept ;
+    ns1:altLabel "Color"@en,
+        "Depth cues"@en,
+        "Motion"@en,
+        "Object recognition"@en,
+        "Photometry"@en,
+        "Range data"@en,
+        "Sensor fusion"@en,
+        "Shading"@en,
+        "Shape"@en,
+        "Stereo"@en,
+        "Surface fitting"@en,
+        "Time-varying imagery"@en,
+        "Tracking"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.8" ;
+    ns1:prefLabel "Scene Analysis"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5057a1a3-d65a-4502-b4ed-3d6950a5f6bf> a ns1:Concept ;
+    ns1:altLabel "Computation of transforms (e.g., fast Fourier transform)"@en,
+        "Computations in finite fields"@en,
+        "Computations on matrices"@en,
+        "Computations on polynomials"@en,
+        "Number-theoretic computations (e.g., factoring, primality testing)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2.1" ;
+    ns1:prefLabel "Numerical Algorithms and Problems (G.1, G.4, I.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/50cf7208-c189-4fdb-9b5a-466988932619> a ns1:Concept ;
+    ns1:altLabel "Rapid prototyping"@en,
+        "Reusable software"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/512935df-9018-42eb-8868-31e79c09e272> a ns1:Concept ;
+    ns1:altLabel "Software development"@en,
+        "Software maintenance"@en,
+        "Software process"@en,
+        "Software selection"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.3" ;
+    ns1:prefLabel "Software Management (D.2.9)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5314dd94-976a-4bba-8fe9-63832a9c51a5> a ns1:Concept ;
+    ns1:altLabel "Access methods"@en,
+        "Directory structures"@en,
+        "Distributed file systems"@en,
+        "File organization"@en,
+        "Maintenance"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.3" ;
+    ns1:prefLabel "File Systems Management (E.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/544c6dc2-e658-4c1d-b668-763bffc64275> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/54a62cbc-84d7-4a06-b01b-bbcc5c6b8585> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/55265385-e987-4322-b703-9adc0a5396d0> a ns1:Concept ;
+    ns1:altLabel "Contracts"@en,
+        "Hardware patents"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.5.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/55f29dc7-2954-494b-8a11-d5a05638ec08> a ns1:Concept ;
+    ns1:altLabel "Biographies/autobiographies"@en,
+        "Conference proceedings"@en,
+        "General literary works (e.g., fiction, plays)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "A.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5621778b-7137-40f3-a256-55a3f7b1d37a> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5665bdf5-684d-4005-b220-6802887ae9ef> a ns1:Concept ;
+    ns1:altLabel "Difference formulas"@en,
+        "Extrapolation"@en,
+        "Interpolation formulas"@en,
+        "Smoothing"@en,
+        "Spline and piecewise polynomial interpolation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.1" ;
+    ns1:prefLabel "Interpolation (I.3.5, I.3.7)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/56b14477-f584-4045-840e-7a2cddfb36e9> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7" ;
+    ns1:prefLabel "DOCUMENT AND TEXT PROCESSING  (H.4, H.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5797e9e1-b8ed-4b2f-aa8a-09f5e48bd02f> a ns1:Concept ;
+    ns1:altLabel "Continuation (homotopy) methods"@en,
+        "Convergence"@en,
+        "Error analysis"@en,
+        "Iterative methods"@en,
+        "Polynomials, methods for"@en,
+        "Systems of equations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.5" ;
+    ns1:prefLabel "Roots of Nonlinear Equations"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/57bc2699-1b5e-44ea-a190-92404aba5b8e> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/59225c42-8b29-408a-bad6-605734ab3244> a ns1:Concept ;
+    ns1:altLabel "Expert system tools and techniques"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.5" ;
+    ns1:prefLabel "Programming Languages and Software (D.3.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5a74053f-310f-44e4-ab2c-fd5ad123eea3> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.4" ;
+    ns1:prefLabel "Electronic Publishing (H.5.4, J.7)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5ad64144-4fb7-4172-a33a-5cbf727f2e4b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5d529f82-3d93-42ee-9fde-a245b331d576> a ns1:Concept ;
+    ns1:altLabel "Economics"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5d675f1b-c43a-47f5-acde-66847942d696> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2" ;
+    ns1:prefLabel "ANALYSIS OF ALGORITHMS AND PROBLEM COMPLEXITY (B.6, B.7, F.1.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/5e37ccb6-3ed1-48c4-8750-b1bca8f5c967> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1" ;
+    ns1:prefLabel "SYMBOLIC AND ALGEBRAIC MANIPULATION"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6088a5c2-2fe2-4fbb-bed6-1c492bf04b7a> a ns1:Concept ;
+    ns1:altLabel "Calculator"@en,
+        "Parallel"@en,
+        "Pipeline"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.1" ;
+    ns1:prefLabel "Design Styles (C.1.1, C.1.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/60c755fb-e233-48d3-b2b8-0b7f82416089> a ns1:Concept ;
+    ns1:altLabel "Cellular arrays and automata"@en,
+        "Combinational logic"@en,
+        "Logic arrays"@en,
+        "Memory control and access"@en,
+        "Memory used as logic"@en,
+        "Parallel circuits"@en,
+        "Sequential circuits"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6.1" ;
+    ns1:prefLabel "Design Styles"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6146e5be-ae56-493a-8bc9-a8c5b975dac6> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2" ;
+    ns1:prefLabel "ARITHMETIC AND LOGIC STRUCTURES"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/614ffbc3-c1e8-46a5-a23a-cd53457c5848> a ns1:Concept ;
+    ns1:altLabel "3D/stereo scene analysis"@en,
+        "Architecture and control structures"@en,
+        "Intensity, color, photometry, and thresholding"@en,
+        "Modeling and recovery of physical attributes"@en,
+        "Motion"@en,
+        "Perceptual reasoning"@en,
+        "Representations, data structures, and transforms"@en,
+        "Shape"@en,
+        "Texture"@en,
+        "Video analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.10" ;
+    ns1:prefLabel "Vision and Scene Understanding (I.4.8, I.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/62b5ac7f-50c7-418a-a537-30857a2c54e1> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/63320491-8b19-4b25-a990-6ae0845fdb36> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1" ;
+    ns1:prefLabel "CONTROL STRUCTURES AND MICROPROGRAMMING (D.3.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/638c05d8-9d03-4b28-a418-dd13d31d4152> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2" ;
+    ns1:prefLabel "SOFTWARE ENGINEERING (K.6.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/641ebeb5-7dd1-4ec0-a733-d69c1eac4a2c> a ns1:Concept ;
+    ns1:altLabel "Environments"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.7" ;
+    ns1:prefLabel "Simulation Support Systems"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/64ab3b47-de0a-465b-9a10-df736670cccf> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6515a0c6-7f07-4c43-ac08-2ba9efac571e> a ns1:Concept ;
+    ns1:altLabel "Data dictionary/directory"@en,
+        "Data warehouse and repository"@en,
+        "Logging and recovery"@en,
+        "Security, integrity, and protection"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.7" ;
+    ns1:prefLabel "Database Administration"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/65965ed7-57f5-4bd1-be01-38882c781dd2> a ns1:Concept ;
+    ns1:altLabel "Answer/reason extraction"@en,
+        "Deduction (e.g., natural, rule-based)"@en,
+        "Inference engines"@en,
+        "Logic programming"@en,
+        "Mathematical induction"@en,
+        "Metatheory"@en,
+        "Nonmonotonic reasoning and belief revision"@en,
+        "Resolution"@en,
+        "Uncertainty, ``fuzzy,'' and probabilistic reasoning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.3" ;
+    ns1:prefLabel "Deduction and Theorem Proving (F.4.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6786b2c3-9d2a-4982-b193-948c04af6bc6> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.2" ;
+    ns1:prefLabel "Minicomputers"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/67874c95-55b8-47c4-b7ba-97eecf765c15> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.8.2" ;
+    ns1:prefLabel "Performance Analysis and Design Aids"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/67d7e807-c859-4312-8d3d-b38e2d7e4736> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/68d1f286-55d3-4e25-945d-0fecf97a88c9> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.4" ;
+    ns1:prefLabel "VLSI Systems"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/69a3103a-db4e-4e14-9978-317f48122842> a ns1:Concept ;
+    ns1:altLabel "Access controls"@en,
+        "Authentication"@en,
+        "Cryptographic controls"@en,
+        "Information flow controls"@en,
+        "Invasive software (e.g., viruses, worms, Trojan horses)"@en,
+        "Security kernels"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.6" ;
+    ns1:prefLabel "Security and Protection (K.6.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6afc8a33-2f1b-4f5e-bf10-1830791c7e5f> a ns1:Concept ;
+    ns1:altLabel "Concurrency"@en,
+        "Deadlocks"@en,
+        "Multiprocessing/multiprogramming/multitasking"@en,
+        "Mutual exclusion"@en,
+        "Scheduling"@en,
+        "Synchronization"@en,
+        "Threads"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.1" ;
+    ns1:prefLabel "Process Management"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6bdfa684-a8a7-419b-8633-ac708d219bbc> a ns1:Concept ;
+    ns1:altLabel "File organization"@en,
+        "Record classification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.2" ;
+    ns1:prefLabel "Information Storage"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6bf483b3-c2f7-417b-a5fe-4d086a4a15f8> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6c1e0669-5b3d-40f3-b236-61b48b34cdc9> a ns1:Concept ;
+    ns1:altLabel "Diagnostics"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.3" ;
+    ns1:prefLabel "Reliability, Testing, and Fault-Tolerance (B.8)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6c3934f5-6f17-4e83-8743-bac709da6360> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6c80714a-59d8-490d-9728-413e298d6cea> a ns1:Concept ;
+    ns1:altLabel "Approximation of surfaces and contours"@en,
+        "Chebyshev approximation and theory"@en,
+        "Elementary function approximation"@en,
+        "Fast Fourier transforms (FFT)"@en,
+        "Least squares approximation"@en,
+        "Linear approximation"@en,
+        "Minimax approximation and algorithms"@en,
+        "Nonlinear approximation"@en,
+        "Rational approximation"@en,
+        "Special function approximations"@en,
+        "Spline and piecewise polynomial approximation"@en,
+        "Wavelets and fractals"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.2" ;
+    ns1:prefLabel "Approximation"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/6e4833a3-dc41-425c-848a-02e7920d4326> a ns1:Concept ;
+    ns1:altLabel "Adaptive and iterative quadrature"@en,
+        "Automatic differentiation"@en,
+        "Equal interval integration"@en,
+        "Error analysis"@en,
+        "Finite difference methods"@en,
+        "Gaussian quadrature"@en,
+        "Iterative methods"@en,
+        "Multidimensional (multiple) quadrature"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.4" ;
+    ns1:prefLabel "Quadrature and Numerical Differentiation (F.2.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/709c6310-c6ec-48aa-9df2-c0753e67326b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7201f8bb-f672-4c94-b006-2343308b4671> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.1" ;
+    ns1:prefLabel "Applicative (Functional) Programming"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/725a6b28-9e68-4d98-baeb-3d94cade54fb> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/75456625-3679-4a09-8c6d-efc5a4b64dbd> a ns1:Concept ;
+    ns1:altLabel "Architecture"@en,
+        "Arts, fine and performing"@en,
+        "Fine arts"@en,
+        "Language translation"@en,
+        "Linguistics"@en,
+        "Literature"@en,
+        "Music"@en,
+        "Performing arts (e.g., dance, music)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.5" ;
+    ns1:prefLabel "ARTS AND HUMANITIES"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/78ee4a99-088c-47d4-b674-2062f75406ef> a ns1:Concept ;
+    ns1:altLabel "Methodologies and techniques"@en,
+        "Modeling"@en,
+        "Signal analysis, synthesis, and processing"@en,
+        "Systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.5" ;
+    ns1:prefLabel "Sound and Music Computing (J.5)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7aea8680-c1c6-4c57-be23-fd00349f49fa> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7" ;
+    ns1:prefLabel "INTEGRATED CIRCUITS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7bb0d9b2-5704-4c79-987a-478f5fe8fe96> a ns1:Concept ;
+    ns1:altLabel "Interactive systems"@en,
+        "Special architectures"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.5" ;
+    ns1:prefLabel "Implementation (C.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7be1ac4c-eee4-4abd-b8a4-770c09445698> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7bf1b669-11ae-41d1-ad79-c6af4752766d> a ns1:Concept ;
+    ns1:altLabel "Backtracking"@en,
+        "Control theory"@en,
+        "Dynamic programming"@en,
+        "Graph and tree search strategies"@en,
+        "Heuristic methods"@en,
+        "Plan execution, formation, and generation"@en,
+        "Scheduling"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.8" ;
+    ns1:prefLabel "Problem Solving, Control Methods, and Search (F.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7caee4b0-59b1-4088-abda-dda19fbbd7fe> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.2" ;
+    ns1:prefLabel "Simulation Languages"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7cb0fd06-d400-44e1-9baf-511da9bd571e> a ns1:Concept ;
+    ns1:altLabel "Code generation"@en,
+        "Compilers"@en,
+        "Debuggers"@en,
+        "Incremental compilers"@en,
+        "Interpreters"@en,
+        "Memory management (garbage collection)"@en,
+        "Optimization"@en,
+        "Parsing"@en,
+        "Preprocessors"@en,
+        "Retargetable compilers"@en,
+        "Run-time environments"@en,
+        "Translator writing systems and compiler generators"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.4" ;
+    ns1:prefLabel "Processors"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7da95823-2d46-44c6-b4ca-21f70351bdf1> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.3" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7e33e9e9-c03f-44da-bf62-fa06e10f22d3> a ns1:Concept ;
+    ns1:altLabel "Methodologies"@en,
+        "Representation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.10" ;
+    ns1:prefLabel "Design (D.2.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7e9ea3aa-21b1-4ba8-97f0-2764e541881b> a ns1:Concept ;
+    ns1:altLabel "Life cycle"@en,
+        "Management techniques (e.g., PERT/CPM)"@en,
+        "Staffing"@en,
+        "Strategic information systems planning"@en,
+        "Systems analysis and design"@en,
+        "Systems development"@en,
+        "Training"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.1" ;
+    ns1:prefLabel "Project and People Management"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/7f671608-04ed-43db-a34b-cf4cabf99052> a ns1:Concept ;
+    ns1:altLabel "Security, integrity, and protection"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/80613d4b-ced4-4b53-a88a-a4a64d5fbf68> a ns1:Concept ;
+    ns1:altLabel "Computer vision"@en,
+        "Signal processing"@en,
+        "Text processing"@en,
+        "Waveform analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.4" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8087cc5e-f1ee-4e4c-9ec7-6e0fccbe0d0f> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6" ;
+    ns1:prefLabel "SIMULATION AND MODELING (G.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8113baa4-41f8-4dd9-bc3a-2aa93b4bb774> a ns1:Concept ;
+    ns1:altLabel "Copyrights"@en,
+        "Licensing"@en,
+        "Patents"@en,
+        "Proprietary rights"@en,
+        "Trade secrets"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.5.1" ;
+    ns1:prefLabel "Hardware/Software Protection"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/82a328a7-a1af-4737-a01d-e73f749eeb17> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/83098d62-62fd-4d58-ab26-e5a1e6568831> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.5" ;
+    ns1:prefLabel "Servers"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/85dc3377-f54e-4b2c-88a3-c2e2d0649240> a ns1:Concept ;
+    ns1:altLabel "Data translation"@en,
+        "Program translation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.5" ;
+    ns1:prefLabel "Heterogeneous Databases"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8656a879-813c-470c-b876-61a289146742> a ns1:Concept ;
+    ns1:altLabel "Decision problems"@en,
+        "Grammar types (e.g., context-free, context-sensitive)"@en,
+        "Parallel rewriting systems (e.g., developmental systems, L-systems)"@en,
+        "Parsing"@en,
+        "Thue systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4.2" ;
+    ns1:prefLabel "Grammars and Other Rewriting Systems (D.3.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/87c40d4b-17c9-4800-8d0c-7ea1f2389d40> a ns1:Concept ;
+    ns1:altLabel "Command and control"@en,
+        "Consumer products"@en,
+        "Industrial control"@en,
+        "Military"@en,
+        "Process control"@en,
+        "Publishing"@en,
+        "Real time"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.7" ;
+    ns1:prefLabel "COMPUTERS IN OTHER SYSTEMS (C.3)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/88fb0d53-0f99-4363-b02a-07d460aba84b> a ns1:Concept ;
+    ns1:altLabel "Simulation"@en,
+        "Verification"@en,
+        "Worst-case analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.2" ;
+    ns1:prefLabel "Performance Analysis and Design Aids (B.8)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/893a26b3-aa36-434c-9c98-3e10db792686> a ns1:Concept ;
+    ns1:altLabel "Abstract data types"@en,
+        "Classes and objects"@en,
+        "Concurrent programming structures"@en,
+        "Constraints"@en,
+        "Control structures"@en,
+        "Coroutines"@en,
+        "Data types and structures"@en,
+        "Dynamic storage management"@en,
+        "Frameworks"@en,
+        "Inheritance"@en,
+        "Input/output"@en,
+        "Modules, packages"@en,
+        "Patterns"@en,
+        "Polymorphism"@en,
+        "Procedures, functions, and subroutines"@en,
+        "Recursion"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.3" ;
+    ns1:prefLabel "Language Constructs and Features (E.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/896dd0b1-3ece-4465-8f9b-22d3db2efc1d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2.3" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/89b4b914-2e93-4cc0-a8f7-48eba2a7d53a> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/89f20df3-e3e5-424c-9efc-a32801cbc039> a ns1:Concept ;
+    ns1:altLabel "Dynamic memory (DRAM)"@en,
+        "Read-only memory (ROM)"@en,
+        "Static memory (SRAM)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.1" ;
+    ns1:prefLabel "Semiconductor Memories (B.7.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8cc84930-a87e-4ba7-a028-f16cce0ddd17> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4" ;
+    ns1:prefLabel "COMPUTERS AND SOCIETY"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8ce78652-eaf4-4df8-95d0-f0e3d7fe32b3> a ns1:Concept ;
+    ns1:altLabel "Automatic synthesis"@en,
+        "Formal models"@en,
+        "Simulation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.2" ;
+    ns1:prefLabel "Control Structure Performance Analysis and Design Aids"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8d165623-4b5c-44ab-871d-cb0f0fb152d0> a ns1:Concept ;
+    ns1:altLabel "Authentication"@en,
+        "Insurance"@en,
+        "Invasive software (e.g., viruses, worms, Trojan horses)"@en,
+        "Physical security"@en,
+        "Unauthorized access (e.g., hacking, phreaking)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.5" ;
+    ns1:prefLabel "Security and Protection (D.4.6, K.4.2)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8f4a2240-5eb5-449c-b559-b9171d5ab5f2> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8f8fb445-90b2-403d-b792-384f39ba8318> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/8fe4b74e-f500-460c-a36f-24d775020a54> a ns1:Concept ;
+    ns1:altLabel "Queueing theory"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/903cb2ca-f875-473a-a449-de3885c54716> a ns1:Concept ;
+    ns1:altLabel "Data compaction and compression"@en,
+        "Error control codes"@en,
+        "Formal models of communication"@en,
+        "Nonsecret encoding schemes"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.4" ;
+    ns1:prefLabel "CODING AND INFORMATION THEORY (H.1.1)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/90ad219c-0d4b-404b-8a05-5f1b99ee94d4> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/90f4fddc-0c2a-4352-b827-ecdb8654d248> a ns1:Concept ;
+    ns1:altLabel "Network management"@en,
+        "Network monitoring"@en,
+        "Public networks"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.3" ;
+    ns1:prefLabel "Network Operations"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/914c0a22-6bb9-45f8-935e-40841ad0a413> a ns1:Concept ;
+    ns1:altLabel "Access schemes"@en,
+        "Buses"@en,
+        "Ethernet (e.g., CSMA/CD)"@en,
+        "High-speed (e.g., FDDI, fiber channel, ATM)"@en,
+        "Internet (e.g., TCP/IP)"@en,
+        "Token rings"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.5" ;
+    ns1:prefLabel "Local and Wide-Area Networks"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/91896e63-be77-49cd-93b4-a97d912017bf> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/91ac171f-bc5e-4f59-a44c-92c70298db6d> a ns1:Concept ;
+    ns1:altLabel "Abuse and crime involving computers"@en,
+        "Computer-related health issues"@en,
+        "Ethics"@en,
+        "Human safety"@en,
+        "Intellectual property rights"@en,
+        "Privacy"@en,
+        "Regulation"@en,
+        "Transborder data flow"@en,
+        "Use/abuse of power"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.1" ;
+    ns1:prefLabel "Public Policy Issues"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9219ad1c-abbe-4912-97d8-9fa63e0f6c72> a ns1:Concept ;
+    ns1:altLabel "Human factors"@en,
+        "Human information processing"@en,
+        "Software psychology"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.1.2" ;
+    ns1:prefLabel "User/Machine Systems"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/92b8d99a-add4-4f93-acf8-09b8fecb1098> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9468ff50-4a10-40e7-b346-ed7aaa9bb758> a ns1:Concept ;
+    ns1:altLabel "Advanced technologies"@en,
+        "Algorithms implemented in hardware"@en,
+        "Gate arrays"@en,
+        "Input/output circuits"@en,
+        "Memory technologies"@en,
+        "Microprocessors and microcomputers"@en,
+        "Standard cells"@en,
+        "VLSI (very large scale integration)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7.1" ;
+    ns1:prefLabel "Types and Design Styles"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/95398d5e-f33b-49b1-a94f-068c02d4eb6f> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.9" ;
+    ns1:prefLabel "Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/95ca5385-e913-4373-bbae-da1901650798> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/966a5316-cd31-4505-830a-b0ba1e4eafa7> a ns1:Concept ;
+    ns1:altLabel "Delay equations"@en,
+        "Fredholm equations"@en,
+        "Integro-differential equations"@en,
+        "Volterra equations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.9" ;
+    ns1:prefLabel "Integral Equations"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/967e3143-51a1-4bb6-b275-3be2ac84f834> a ns1:Concept ;
+    ns1:altLabel "Algorithm design and analysis"@en,
+        "Certification and testing"@en,
+        "Documentation"@en,
+        "Efficiency"@en,
+        "Parallel and vector implementations"@en,
+        "Portability"@en,
+        "Reliability and robustness"@en,
+        "User interfaces"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.4" ;
+    ns1:prefLabel "MATHEMATICAL SOFTWARE"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/96db5f22-0f46-4fc6-abd1-eff79527c0a7> a ns1:Concept ;
+    ns1:altLabel "Bulletin boards"@en,
+        "Computer conferencing, teleconferencing, and videoconferencing"@en,
+        "Electronic mail"@en,
+        "Information browsers"@en,
+        "Videotex"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4.3" ;
+    ns1:prefLabel "Communications Applications"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9707898b-2c46-4ffc-816f-3855f865cdb0> a ns1:Concept ;
+    ns1:altLabel "Access methods"@en,
+        "Deadlock avoidance"@en,
+        "Recovery and restart"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.2" ;
+    ns1:prefLabel "Physical Design"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/972ba26f-57bb-49ec-9713-72ce8e69e38d> a ns1:Concept ;
+    ns1:altLabel "Device independence"@en,
+        "Ergonomics"@en,
+        "Graphics data structures and data types"@en,
+        "Interaction techniques"@en,
+        "Languages"@en,
+        "Standards"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.6" ;
+    ns1:prefLabel "Methodology and Techniques"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/98a67b6b-06dd-474d-89af-88657f2474ce> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "A.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/994f7126-773e-4846-b449-2940b332c15c> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8.2" ;
+    ns1:prefLabel "Hardware"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/997b0b79-1a2e-4627-bc6d-85a7a45b76c6> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/99d3a0a2-c9d5-4bc8-89d8-99efc34aa258> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/99edbaa3-7237-4315-bb22-9f8b458ac4f3> a ns1:Concept ;
+    ns1:altLabel "Allocation/deallocation strategies"@en,
+        "Distributed memories"@en,
+        "Garbage collection"@en,
+        "Main memory"@en,
+        "Secondary storage"@en,
+        "Segmentation"@en,
+        "Storage hierarchies"@en,
+        "Swapping"@en,
+        "Virtual memory"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.2" ;
+    ns1:prefLabel "Storage Management"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9a1a1257-57d6-4e30-acb6-452e9effe49f> a ns1:Concept ;
+    ns1:altLabel "Conditioning"@en,
+        "Determinants"@en,
+        "Eigenvalues and eigenvectors (direct and iterative methods)"@en,
+        "Error analysis"@en,
+        "Linear systems (direct and iterative methods)"@en,
+        "Matrix inversion"@en,
+        "Pseudoinverses"@en,
+        "Singular value decomposition"@en,
+        "Sparse, structured, and very large systems (direct and iterative methods)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.3" ;
+    ns1:prefLabel "Numerical Linear Algebra"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9a8e8ef1-b364-46a6-818d-a7cfcb58d1f9> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.8.1" ;
+    ns1:prefLabel "Reliability, Testing, and Fault-Tolerance"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9b6077ad-e677-4286-8b1a-bd7580e09f06> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9b9769a7-2b71-4574-9234-0c4c626aaf6b> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9bd662cd-4f87-479a-8a7a-9bf695b54d16> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5" ;
+    ns1:prefLabel "INFORMATION INTERFACES AND PRESENTATION (e.g., HCI) (I.7)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9cabde7e-6260-4c30-9f84-190b3ef4ebb2> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.8.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9d63224f-315a-4c44-bd13-70f2c9e3f4e1> a ns1:Concept ;
+    ns1:altLabel "Firmware engineering"@en,
+        "Languages and compilers"@en,
+        "Machine-independent microcode generation"@en,
+        "Optimization"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.4" ;
+    ns1:prefLabel "Microprogram Design Aids (D.2.2, D.2.4, D.3.2, D.3.4)"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9e28c9e3-bbde-481b-9d00-6e9b2076918d> a ns1:Concept ;
+    ns1:altLabel "Adaptable architectures"@en,
+        "Analog computers"@en,
+        "Capability architectures"@en,
+        "Cellular architecture (e.g., mobile)"@en,
+        "Data-flow architectures"@en,
+        "Heterogeneous (hybrid) systems"@en,
+        "High-level language architectures"@en,
+        "Neural nets"@en,
+        "Pipeline processors"@en,
+        "Stack-oriented processors"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.3" ;
+    ns1:prefLabel "Other Architecture Styles"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9e5abfae-abbf-4e96-ac07-7baf3c578e1d> a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9f67a34e-762a-40f2-8321-1f4bb507a594> a ns1:Concept ;
+    ns1:altLabel "Standards"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.0" ;
+    ns1:prefLabel "General"@en .
+
+<http://data.ub.uio.no/ams-ccs-ubo/9fe46ec6-d71a-4ee5-a9ba-ed37af513bdc> a ns1:Concept ;
+    ns1:altLabel "Image displays"@en,
+        "Image processing software"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a003fc39-ff23-46ce-9b05-df10bdc7ea9d a ns1:Concept ;
+    ns1:altLabel "Automatic synthesis"@en,
+        "Hardware description languages"@en,
+        "Optimization"@en,
+        "Simulation"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5.2" ;
+    ns1:prefLabel "Design Aids"@en .
+
+ccs:a0704483-5e08-45a0-9261-0f8957c58b99 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+ccs:a10b8193-e4b7-4e2b-a2fc-b9891ae7254b a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a10f001e-1307-4bc2-8e3e-d490a3f73465 a ns1:Concept ;
+    ns1:altLabel "Economics"@en,
+        "Psychology"@en,
+        "Sociology"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.4" ;
+    ns1:prefLabel "SOCIAL AND BEHAVIORAL SCIENCES"@en .
+
+ccs:a118d18d-732a-469c-ab4c-d709dac0cc72 a ns1:Concept ;
+    ns1:altLabel "Measurements"@en,
+        "Modeling and prediction"@en,
+        "Monitors"@en,
+        "Operational analysis"@en,
+        "Queueing theory"@en,
+        "Simulation"@en,
+        "Stochastic analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.8" ;
+    ns1:prefLabel "Performance (C.4, D.2.8, I.6)"@en .
+
+ccs:a17f1a2e-e615-4283-8ccc-c653e1ca6c69 a ns1:Concept ;
+    ns1:altLabel "Frames and scripts"@en,
+        "Modal logic"@en,
+        "Predicate logic"@en,
+        "Relation systems"@en,
+        "Representation languages"@en,
+        "Representations (procedural and rule-based)"@en,
+        "Semantic networks"@en,
+        "Temporal logic"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.4" ;
+    ns1:prefLabel "Knowledge Representation Formalisms and Methods (F.4.1)"@en .
+
+ccs:a2a9eef3-e5f1-464d-b85a-8a226ba94fd2 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1" ;
+    ns1:prefLabel "NUMERICAL ANALYSIS"@en .
+
+ccs:a2f85b67-f1f3-47fc-bd7e-9a9ad47dc23a a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a3120412-77fb-4c65-bcb3-b9a3455fd3f1 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a337463f-0187-4f66-991e-2464aa072c1c a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a3413273-e2d6-40a0-9705-ffcb7b125e76 a ns1:Concept ;
+    ns1:altLabel "Domain engineering"@en,
+        "Reusable libraries"@en,
+        "Reuse models"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.13" ;
+    ns1:prefLabel "Reusable Software"@en .
+
+ccs:a35acd51-c823-4ae6-abf1-8b836e20bf66 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a39fbdb5-0eaf-4642-ac5c-ca5b24e94b02 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a3a30d77-ac29-49d1-9187-cb6c179e8013 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a3fd1cd8-5c3b-4174-919b-78cad3f07a29 a ns1:Concept ;
+    ns1:altLabel "Algorithms"@en,
+        "Cost/performance"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.4" ;
+    ns1:prefLabel "High-Speed Arithmetic"@en .
+
+ccs:a4074a76-0cd5-4db6-81b2-41ba63fa674b a ns1:Concept ;
+    ns1:altLabel "Command and control languages"@en,
+        "Linkers"@en,
+        "Loaders"@en,
+        "Window managers"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.9" ;
+    ns1:prefLabel "Systems Programs and Utilities"@en .
+
+ccs:a4682a3a-517e-4ccd-afec-acdc80f2a4fe a ns1:Concept ;
+    ns1:altLabel "Clustering"@en,
+        "Information filtering"@en,
+        "Query formulation"@en,
+        "Relevance feedback"@en,
+        "Retrieval models"@en,
+        "Search process"@en,
+        "Selection process"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.3" ;
+    ns1:prefLabel "Information Search and Retrieval"@en .
+
+ccs:a46e2ee6-e1b1-46f5-8b61-c1e37aa14fcc a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a514f400-b52e-444a-8d19-72c8abfe97f9 a ns1:Concept ;
+    ns1:altLabel "Alternation and nondeterminism"@en,
+        "Interactive and reactive computation"@en,
+        "Online computation"@en,
+        "Parallelism and concurrency"@en,
+        "Probabilistic computation"@en,
+        "Relations among modes"@en,
+        "Relativized computation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1.2" ;
+    ns1:prefLabel "Modes of Computation"@en .
+
+ccs:a523b03c-0bdd-4b0b-8468-5ce3398ce3e8 a ns1:Concept ;
+    ns1:altLabel "Diagnostics"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.4" ;
+    ns1:prefLabel "Reliability, Testing, and Fault-Tolerance (B.8)"@en .
+
+ccs:a5662711-4321-42ea-a704-1db0ef3ee151 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.8" ;
+    ns1:prefLabel "PERFORMANCE AND RELIABILITY (C.4)"@en .
+
+ccs:a64ac403-3b04-4c4f-b3d5-665c34ceae10 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "E.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+ccs:a746eacb-2d52-491d-8910-07f012940093 a ns1:Concept ;
+    ns1:altLabel "Data communications"@en,
+        "Open Systems Interconnection reference model (OSI)"@en,
+        "Security and protection (e.g., firewalls)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a7baa67b-f82d-4614-9514-a5d1962c0dba a ns1:Concept ;
+    ns1:altLabel "Computer arithmetic"@en,
+        "Conditioning (and ill-conditioning)"@en,
+        "Error analysis"@en,
+        "Interval arithmetic"@en,
+        "Multiple precision arithmetic"@en,
+        "Numerical algorithms"@en,
+        "Parallel algorithms"@en,
+        "Stability (and instability)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:a8308eee-92ad-4d20-8e46-16e232972edc a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:a90a42de-57e4-4be2-83c5-353ee9da11ea a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B" ;
+    ns1:prefLabel "Hardware"@en .
+
+ccs:aa3298c9-e80b-4e93-80d3-57ca5ee364c5 a ns1:Concept ;
+    ns1:altLabel "Built-in tests"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en,
+        "Testability"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5.3" ;
+    ns1:prefLabel "Reliability and Testing (B.8)"@en .
+
+ccs:aa3398fd-f25a-4a48-86f9-60cb1735375e a ns1:Concept ;
+    ns1:altLabel "Animations"@en,
+        "Artificial, augmented, and virtual realities"@en,
+        "Audio input/output"@en,
+        "Evaluation/methodology"@en,
+        "Hypertext navigation and maps"@en,
+        "Video (e.g., tape, disk, DVI)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.1" ;
+    ns1:prefLabel "Multimedia Information Systems"@en .
+
+ccs:ab4d17df-6e62-4e5d-8eba-06c4095b3efd a ns1:Concept ;
+    ns1:altLabel "Accreditation"@en,
+        "Computer science education"@en,
+        "Curriculum"@en,
+        "Information systems education"@en,
+        "Literacy"@en,
+        "Self-assessment"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.3.2" ;
+    ns1:prefLabel "Computer and Information Science Education"@en .
+
+ccs:ab52e241-fbe7-4efe-98db-325fc5a03f23 a ns1:Concept ;
+    ns1:altLabel "Data mining"@en,
+        "Image databases"@en,
+        "Scientific databases"@en,
+        "Spatial databases and GIS"@en,
+        "Statistical databases"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.8" ;
+    ns1:prefLabel "Database Applications"@en .
+
+ccs:afca7fda-9f04-4651-8ab9-c776c5c89fe0 a ns1:Concept ;
+    ns1:altLabel "Semantics"@en,
+        "Syntax"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3.1" ;
+    ns1:prefLabel "Formal Definitions and Theory (D.2.1, F.3.1, F.3.2, F.4.2, F.4.3)"@en .
+
+ccs:b05dcfd9-aec0-4d45-9ef6-4b5758d1627b a ns1:Concept ;
+    ns1:altLabel "Hardware"@en,
+        "People"@en,
+        "Software"@en,
+        "Systems"@en,
+        "Theory"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.2" ;
+    ns1:prefLabel "HISTORY OF COMPUTING"@en .
+
+ccs:b073f6bc-040f-4cde-a147-a9fcd05d3b3e a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3" ;
+    ns1:prefLabel "LOGICS AND MEANINGS OF PROGRAMS"@en .
+
+ccs:b0a36490-2bcf-4bee-bfca-76fea037fb5f a ns1:Concept ;
+    ns1:altLabel "Data models"@en,
+        "Normal forms"@en,
+        "Schema and subschema"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.2.1" ;
+    ns1:prefLabel "Logical Design"@en .
+
+ccs:b1962a45-ef50-4825-9b70-be69629643f9 a ns1:Concept ;
+    ns1:altLabel "Asynchronous interaction"@en,
+        "Collaborative computing"@en,
+        "Computer-supported cooperative work"@en,
+        "Evaluation/methodology"@en,
+        "Organizational design"@en,
+        "Synchronous interaction"@en,
+        "Theory and models"@en,
+        "Web-based interaction"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.3" ;
+    ns1:prefLabel "Group and Organization Interfaces"@en .
+
+ccs:b1c02fca-c5ef-471f-9f30-8cc94afbf87b a ns1:Concept ;
+    ns1:altLabel "Corrections"@en,
+        "Documentation"@en,
+        "Enhancement"@en,
+        "Extensibility"@en,
+        "Portability"@en,
+        "Restructuring, reverse engineering, and reengineering"@en,
+        "Version control"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.7" ;
+    ns1:prefLabel "Distribution, Maintenance, and Enhancement"@en .
+
+ccs:b1c32a4f-0d4e-46e3-ac6a-321242d55eed a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4" ;
+    ns1:prefLabel "OPERATING SYSTEMS (C)"@en .
+
+ccs:b265b670-4aab-4e6a-a645-485293c3cfc9 a ns1:Concept ;
+    ns1:altLabel "Abstracting methods"@en,
+        "Dictionaries"@en,
+        "Indexing methods"@en,
+        "Linguistic processing"@en,
+        "Thesauruses"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.1" ;
+    ns1:prefLabel "Content Analysis and Indexing"@en .
+
+ccs:b352d11c-0dab-46f9-85eb-9d57414c0e14 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+ccs:b381b10e-82a8-4bef-95ad-5ac53a0e2c0f a ns1:Concept ;
+    ns1:altLabel "Large text archives"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.6" ;
+    ns1:prefLabel "Library Automation"@en .
+
+ccs:b4599b53-8b35-4805-9d88-7c166a69d9c2 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.8.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:b500a4c8-d0bf-447f-bca5-f65a12790cff a ns1:Concept ;
+    ns1:altLabel "Data abstraction"@en,
+        "Domain-specific architectures"@en,
+        "Information hiding"@en,
+        "Languages (e.g., description, interconnection, definition)"@en,
+        "Patterns (e.g., client/server, pipeline, blackboard)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.11" ;
+    ns1:prefLabel "Software Architectures"@en .
+
+ccs:ba041418-8847-43ae-8ea0-0848a20ad4eb a ns1:Concept ;
+    ns1:altLabel "Protection mechanisms"@en,
+        "Standards"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.0" ;
+    ns1:prefLabel "General (K.5.1)"@en .
+
+ccs:bb3a170b-0145-43b0-af53-150f4957a14f a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:bb8e8f8b-6ff9-4e50-a53f-e0353bbe7a0b a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+ccs:bcbd81cb-1fba-41ec-8db3-c418b585a9c0 a ns1:Concept ;
+    ns1:altLabel "Benchmarks"@en,
+        "Computer selection"@en,
+        "Computing equipment management"@en,
+        "Performance and usage measurement"@en,
+        "Pricing and resource allocation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.2" ;
+    ns1:prefLabel "Installation Management"@en .
+
+ccs:bdca49dc-b5a5-453f-bd14-23bc0d6f38d5 a ns1:Concept ;
+    ns1:altLabel "Assertion checkers"@en,
+        "Class invariants"@en,
+        "Correctness proofs"@en,
+        "Formal methods"@en,
+        "Model checking"@en,
+        "Programming by contract"@en,
+        "Reliability"@en,
+        "Statistical methods"@en,
+        "Validation"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.4" ;
+    ns1:prefLabel "Software/Program Verification  (F.3.1)"@en .
+
+ccs:bf42f11c-bad6-4c07-aaba-1a1353f0ff11 a ns1:Concept ;
+    ns1:altLabel "Automatic analysis of algorithms"@en,
+        "Program modification"@en,
+        "Program synthesis"@en,
+        "Program transformation"@en,
+        "Program verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.2" ;
+    ns1:prefLabel "Automatic Programming (D.1.2, F.3.1, F.4.1)"@en .
+
+ccs:bf693cc2-00f4-4551-a2a6-7e873e7bf050 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1" ;
+    ns1:prefLabel "COMPUTATION BY ABSTRACT DEVICES"@en .
+
+ccs:bf73bcc2-b464-4a2d-b9b9-0754244e4530 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.5" ;
+    ns1:prefLabel "Object-oriented Programming"@en .
+
+ccs:bf97fb1b-1aa0-4708-aa9d-a6629a3a66b8 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.1.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:c13eb714-d6c6-4403-b257-a1c584c5a409 a ns1:Concept ;
+    ns1:altLabel "Super (very large) computers"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.1" ;
+    ns1:prefLabel "Large and Medium (``Mainframe'') Computers"@en .
+
+ccs:c1cfc062-026c-472f-ab22-b430f1d6396c a ns1:Concept ;
+    ns1:altLabel "Microprocessor/microcomputer applications"@en,
+        "Process control systems"@en,
+        "Real-time and embedded systems"@en,
+        "Signal processing systems"@en,
+        "Smartcards"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.3" ;
+    ns1:prefLabel "SPECIAL-PURPOSE AND APPLICATION-BASED SYSTEMS (J.7)"@en .
+
+ccs:c20a8e88-fb43-43ba-99e8-e98b24155093 a ns1:Concept ;
+    ns1:altLabel "Boundary representations"@en,
+        "Constructive solid geometry (CSG)"@en,
+        "Curve, surface, solid, and object representations"@en,
+        "Geometric algorithms, languages, and systems"@en,
+        "Hierarchy and geometric transformations"@en,
+        "Modeling packages"@en,
+        "Object hierarchies"@en,
+        "Physically based modeling"@en,
+        "Splines"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.5" ;
+    ns1:prefLabel "Computational Geometry and Object Modeling"@en .
+
+ccs:c307cae4-17f6-4cd6-b46d-0b7b70dd752a a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:c39038ac-7881-44d7-aaee-87d86e92c568 a ns1:Concept ;
+    ns1:altLabel "Centralization/decentralization"@en,
+        "Management audit"@en,
+        "Quality assurance"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.4" ;
+    ns1:prefLabel "System Management"@en .
+
+ccs:c3d0bd6a-3b80-4a1b-b552-136b0eb886fa a ns1:Concept ;
+    ns1:altLabel "Distributed/network graphics"@en,
+        "Remote systems"@en,
+        "Stand-alone systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.2" ;
+    ns1:prefLabel "Graphics Systems (C.2.1, C.2.4, C.3)"@en .
+
+ccs:c3f3af77-72c2-4614-9e72-3273434511a8 a ns1:Concept ;
+    ns1:altLabel "Computer-aided design (CAD)"@en,
+        "Computer-aided manufacturing (CAM)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.6" ;
+    ns1:prefLabel "COMPUTER-AIDED ENGINEERING"@en .
+
+ccs:c4eb8612-edae-4639-978f-a581707a9af9 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:c587992e-76d0-420f-ad87-4f77368682b3 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3" ;
+    ns1:prefLabel "MEMORY STRUCTURES"@en .
+
+ccs:c634721c-ac6c-45d6-ac23-b5e9a1c93812 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I" ;
+    ns1:prefLabel "Computing Methodologies"@en .
+
+ccs:c6e8ce7c-7138-4761-87d0-2924326afec8 a ns1:Concept ;
+    ns1:altLabel "Collection"@en,
+        "Dissemination"@en,
+        "Standards"@en,
+        "Systems issues"@en,
+        "User issues"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3.7" ;
+    ns1:prefLabel "Digital Libraries"@en .
+
+ccs:c728eec2-aa03-401e-addd-c499f0958d3c a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.3.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:c743d197-1102-4ff6-a085-15ad7632d424 a ns1:Concept ;
+    ns1:altLabel "Algebraic approaches to semantics"@en,
+        "Denotational semantics"@en,
+        "Operational semantics"@en,
+        "Partial evaluation"@en,
+        "Process models"@en,
+        "Program analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3.2" ;
+    ns1:prefLabel "Semantics of Programming Languages (D.3.1)"@en .
+
+ccs:c844333b-63dc-4f3a-9fb1-1f6838f702db a ns1:Concept ;
+    ns1:altLabel "Series expansion methods"@en,
+        "Summation methods"@en,
+        "Transform methods"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.5" ;
+    ns1:prefLabel "Reconstruction"@en .
+
+ccs:c8dbc92b-b3c0-44f2-8cb6-e6ad4e160ecd a ns1:Concept ;
+    ns1:altLabel "Distributed architectures"@en,
+        "Mobile processors"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.4" ;
+    ns1:prefLabel "Parallel Architectures"@en .
+
+ccs:c949589f-570b-4349-a6ff-2e2a91550b0e a ns1:Concept ;
+    ns1:altLabel "Built-in tests"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en,
+        "Testability"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.7.3" ;
+    ns1:prefLabel "Reliability and Testing (B.8)"@en .
+
+ccs:c9a845a3-0207-4b97-9ca0-a69d5d285d9d a ns1:Concept ;
+    ns1:altLabel "Codes of ethics"@en,
+        "Codes of good practice"@en,
+        "Ethical dilemmas"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.4" ;
+    ns1:prefLabel "Professional Ethics (K.4)"@en .
+
+ccs:ca7eea9e-b785-4591-a304-e754f57fcd84 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+ccs:cb5fb7fc-26d0-46f9-ba52-89870504a5a1 a ns1:Concept ;
+    ns1:altLabel "Batch processing systems"@en,
+        "Distributed systems"@en,
+        "Hierarchical design"@en,
+        "Interactive systems"@en,
+        "Real-time systems and embedded systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.4.7" ;
+    ns1:prefLabel "Organization and Design"@en .
+
+ccs:cb9f2865-b887-4731-bb30-18e52411bc87 a ns1:Concept ;
+    ns1:altLabel "Automatic synthesis"@en,
+        "Hardware description languages"@en,
+        "Optimization"@en,
+        "Simulation"@en,
+        "Switching theory"@en,
+        "Verification"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6.3" ;
+    ns1:prefLabel "Design Aids"@en .
+
+ccs:cd0ee948-9111-4451-84cb-679ca67b8df6 a ns1:Concept ;
+    ns1:altLabel "Control primitives"@en,
+        "Functional constructs"@en,
+        "Object-oriented constructs"@en,
+        "Program and recursion schemes"@en,
+        "Type structure"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.3.3" ;
+    ns1:prefLabel "Studies of Program Constructs (D.3.2, D.3.3)"@en .
+
+ccs:cf097ae6-5188-4e25-a259-ff4ceb10445e a ns1:Concept ;
+    ns1:altLabel "Games"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:cf3dcdba-a4fc-46c5-95fe-ec4231ebc73b a ns1:Concept ;
+    ns1:altLabel "Accreditation"@en,
+        "Computer literacy"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.3.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:cf6cfb85-4409-487e-8d25-3fa081c0b42d a ns1:Concept ;
+    ns1:altLabel "Desktop publishing"@en,
+        "Equipment"@en,
+        "Groupware"@en,
+        "Spreadsheets"@en,
+        "Time management (e.g., calendars, schedules)"@en,
+        "Word processing"@en,
+        "Workflow management"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4.1" ;
+    ns1:prefLabel "Office Automation (I.7)"@en .
+
+ccs:cf95f0b0-1ae3-4b0e-bf2a-b8ed36e4ee22 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6" ;
+    ns1:prefLabel "LOGIC DESIGN"@en .
+
+ccs:cff56965-9a9d-424c-ad15-9fb253e46477 a ns1:Concept ;
+    ns1:altLabel "Automata (e.g., finite, push-down, resource-bounded)"@en,
+        "Bounded-action devices (e.g., Turing machines, random access machines)"@en,
+        "Computability theory"@en,
+        "Relations between models"@en,
+        "Self-modifying machines (e.g., neural networks)"@en,
+        "Unbounded-action devices (e.g., cellular automata, circuits, networks of machines)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.1.1" ;
+    ns1:prefLabel "Models of Computation (F.4.1)"@en .
+
+ccs:d01947b7-7403-4a64-ba0a-85c2e0dd4d80 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.1" ;
+    ns1:prefLabel "MODELS AND PRINCIPLES"@en .
+
+ccs:d17bf8e3-a660-4299-836b-fd5ecbcb7269 a ns1:Concept ;
+    ns1:altLabel "Biology and genetics"@en,
+        "Health"@en,
+        "Medical information systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.3" ;
+    ns1:prefLabel "LIFE AND MEDICAL SCIENCES"@en .
+
+ccs:d1aaa941-fbac-4f5e-80aa-239e02faaf11 a ns1:Concept ;
+    ns1:altLabel "Constrained optimization"@en,
+        "Convex programming"@en,
+        "Global optimization"@en,
+        "Gradient methods"@en,
+        "Integer programming"@en,
+        "Least squares methods"@en,
+        "Linear programming"@en,
+        "Nonlinear programming"@en,
+        "Quadratic programming methods"@en,
+        "Simulated annealing"@en,
+        "Stochastic programming"@en,
+        "Unconstrained optimization"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.6" ;
+    ns1:prefLabel "Optimization"@en .
+
+ccs:d37aea26-5fb5-4037-a694-2d10d411cedc a ns1:Concept ;
+    ns1:altLabel "Complexity measures"@en,
+        "Performance measures"@en,
+        "Process metrics"@en,
+        "Product metrics"@en,
+        "Software science"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.8" ;
+    ns1:prefLabel "Metrics (D.4.8)"@en .
+
+ccs:d4892d9b-ed91-496f-999a-e9b912d77fd8 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.5.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:d5162984-1d46-4cc4-9b04-a5ed377c7ce6 a ns1:Concept ;
+    ns1:altLabel "Code inspections and walk-throughs"@en,
+        "Debugging aids"@en,
+        "Diagnostics"@en,
+        "Distributed debugging"@en,
+        "Dumps"@en,
+        "Error handling and recovery"@en,
+        "Monitors"@en,
+        "Symbolic execution"@en,
+        "Testing tools (e.g., data generators, coverage testing)"@en,
+        "Tracing"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.5" ;
+    ns1:prefLabel "Testing and Debugging"@en .
+
+ccs:d530ba55-2bc3-41e9-9342-74d313370432 a ns1:Concept ;
+    ns1:altLabel "Object-oriented programming"@en,
+        "Pretty printers"@en,
+        "Program editors"@en,
+        "Reentrant code"@en,
+        "Standards"@en,
+        "Structured programming"@en,
+        "Top-down programming"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.3" ;
+    ns1:prefLabel "Coding Tools and Techniques"@en .
+
+ccs:d54eb399-d088-4b0f-9f7b-20d48916282b a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.4" ;
+    ns1:prefLabel "Model Validation and Analysis"@en .
+
+ccs:d63afd14-02b8-436f-a392-92e45e6b5d6d a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:d68fa673-3efd-4c4d-ab4b-8d8223221061 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:d76ce9cf-b890-4c70-86ed-e5fb478a28fb a ns1:Concept ;
+    ns1:altLabel "Collaborative learning"@en,
+        "Computer-assisted instruction (CAI)"@en,
+        "Computer-managed instruction (CMI)"@en,
+        "Distance learning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.3.1" ;
+    ns1:prefLabel "Computer Uses in Education"@en .
+
+ccs:d7c0c853-332b-40b2-a3bb-f4477c59f028 a ns1:Concept ;
+    ns1:altLabel "Desktop publishing"@en,
+        "Format and notation"@en,
+        "Hypertext/hypermedia"@en,
+        "Index generation"@en,
+        "Languages and systems"@en,
+        "Markup languages"@en,
+        "Multi/mixed media"@en,
+        "Photocomposition/typesetting"@en,
+        "Scripting languages"@en,
+        "Standards"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.2" ;
+    ns1:prefLabel "Document Preparation"@en .
+
+ccs:d86aefad-2e2d-48de-8194-f3a41bbd9b7a a ns1:Concept ;
+    ns1:altLabel "Complexity of proof procedures"@en,
+        "Computations on discrete structures"@en,
+        "Geometrical problems and computations"@en,
+        "Pattern matching"@en,
+        "Routing and layout"@en,
+        "Sequencing and scheduling"@en,
+        "Sorting and searching"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.2.2" ;
+    ns1:prefLabel "Nonnumerical Algorithms and Problems (E.2, E.3, E.4, E.5, G.2, H.2, H.3)"@en .
+
+ccs:d8b28d70-61d6-4638-9b6b-d73d9c4fcf84 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:d8f32ee5-6ce8-43b4-b6a6-fa6c733f10a6 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.2" ;
+    ns1:prefLabel "DISCRETE MATHEMATICS"@en .
+
+ccs:db5c6546-080d-49f4-8c1f-2cfec0a0f4fa a ns1:Concept ;
+    ns1:altLabel "Arithmetic and logic units"@en,
+        "Control design"@en,
+        "Data-path design"@en,
+        "Memory design"@en,
+        "Styles (e.g., parallel, pipeline, special-purpose)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.5.1" ;
+    ns1:prefLabel "Design"@en .
+
+ccs:dcc1c5f1-b263-4a65-bdfb-05a6215ef0a4 a ns1:Concept ;
+    ns1:altLabel "Multiple-instruction-stream, single-data-stream processors (MISD)"@en,
+        "Pipeline processors"@en,
+        "RISC/CISC, VLIW architectures"@en,
+        "Single-instruction-stream, single-data-stream processors (SISD)"@en,
+        "Von Neumann architectures"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.1.1" ;
+    ns1:prefLabel "Single Data Stream Architectures"@en .
+
+ccs:df8b9d76-8585-48d3-b4bc-e53deff515fd a ns1:Concept ;
+    ns1:altLabel "Camera calibration"@en,
+        "Imaging geometry"@en,
+        "Quantization"@en,
+        "Radiometry"@en,
+        "Reflectance"@en,
+        "Sampling"@en,
+        "Scanning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.1" ;
+    ns1:prefLabel "Digitization and Image Capture"@en .
+
+ccs:e009e3c9-0739-4e90-8fdc-1546ba55db0f a ns1:Concept ;
+    ns1:altLabel "Hardware/software interfaces"@en,
+        "Instruction set design (e.g., RISC, CISC, VLIW)"@en,
+        "Modeling of computer architecture"@en,
+        "System architectures"@en,
+        "Systems specification methodology"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+ccs:e13bacd5-1720-49c2-bde2-c4c2e617958f a ns1:Concept ;
+    ns1:altLabel "Coherence and coordination"@en,
+        "Intelligent agents"@en,
+        "Languages and structures"@en,
+        "Multiagent systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.11" ;
+    ns1:prefLabel "Distributed Artificial Intelligence"@en .
+
+ccs:e21fd6c9-8750-418f-ba52-5b0d942c5b43 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7" ;
+    ns1:prefLabel "THE COMPUTING PROFESSION"@en .
+
+ccs:e3453d49-ab43-4075-bc2a-c5438f88031a a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.1.4" ;
+    ns1:prefLabel "Sequential Programming"@en .
+
+ccs:e366a104-88bf-48a9-8ab2-ad1c8efa4c8d a ns1:Concept ;
+    ns1:altLabel "Boundary value problems"@en,
+        "Chaotic systems"@en,
+        "Convergence and stability"@en,
+        "Differential-algebraic equations"@en,
+        "Error analysis"@en,
+        "Finite difference methods"@en,
+        "Initial value problems"@en,
+        "Multistep and multivalue methods"@en,
+        "One-step (single step) methods"@en,
+        "Stiff equations"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.7" ;
+    ns1:prefLabel "Ordinary Differential Equations"@en .
+
+ccs:e3835614-4a72-4be0-bae8-55b8e8f35f49 a ns1:Concept ;
+    ns1:altLabel "Insurance [*]"@en,
+        "Security [*]"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.6.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:e3c29851-1ce7-4c1c-929f-fd77f81b8a48 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.5" ;
+    ns1:prefLabel "LEGAL ASPECTS OF COMPUTING"@en .
+
+ccs:e4693fb7-9e16-4d61-b561-30c6297d146a a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.6" ;
+    ns1:prefLabel "Simulation Output Analysis"@en .
+
+ccs:e6359640-4a26-4494-880e-8212e17251fb a ns1:Concept ;
+    ns1:altLabel "Automation"@en,
+        "Computer-supported collaborative work"@en,
+        "Employment"@en,
+        "Reengineering"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.3" ;
+    ns1:prefLabel "Organizational Impacts"@en .
+
+ccs:e6faf594-9e91-4af8-8ec7-53588e9ef268 a ns1:Concept ;
+    ns1:altLabel "Client/server"@en,
+        "Distributed applications"@en,
+        "Distributed databases"@en,
+        "Network operating systems"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.2.4" ;
+    ns1:prefLabel "Distributed Systems"@en .
+
+ccs:e80c19e8-0fa7-4d51-ac8b-8e4324a7a547 a ns1:Concept ;
+    ns1:altLabel "Approximate methods"@en,
+        "Exact coding"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.2" ;
+    ns1:prefLabel "Compression (Coding) (E.4)"@en .
+
+ccs:e874812c-d597-4d70-99e1-e99a7fd4c388 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.7.m" ;
+    ns1:prefLabel "Miscellaneous"@en .
+
+ccs:e9cb895a-f5e9-43eb-ad11-ef0764e63cc8 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "J.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+ccs:eafdaebb-51e4-45f9-95bb-83b9cca7cfc5 a ns1:Concept ;
+    ns1:altLabel "Autonomous vehicles"@en,
+        "Commercial robots and applications"@en,
+        "Kinematics and dynamics"@en,
+        "Manipulators"@en,
+        "Operator interfaces"@en,
+        "Propelling mechanisms"@en,
+        "Sensors"@en,
+        "Workcell organization and planning"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.2.9" ;
+    ns1:prefLabel "Robotics"@en .
+
+ccs:ed84c592-6c2a-451e-b250-9d780629778f a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4" ;
+    ns1:prefLabel "INFORMATION SYSTEMS APPLICATIONS"@en .
+
+ccs:ee3904d1-ecd2-4f58-9978-3ce5677a5de8 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.0" ;
+    ns1:prefLabel "GENERAL"@en .
+
+ccs:ef37124e-4f8b-48ef-903a-08a31ee2d00e a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "C.5" ;
+    ns1:prefLabel "COMPUTER SYSTEM IMPLEMENTATION"@en .
+
+ccs:ef8d80fd-4638-4ae8-b8ec-ac34009391ec a ns1:Concept ;
+    ns1:altLabel "Feature representation"@en,
+        "Invariants"@en,
+        "Moments"@en,
+        "Projections"@en,
+        "Size and shape"@en,
+        "Texture"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4.7" ;
+    ns1:prefLabel "Feature Measurement"@en .
+
+ccs:f0a69310-f392-4e6a-a42b-56dcf7b02699 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:f19a5247-73a4-43e7-b57d-d1a3591894b0 a ns1:Concept ;
+    ns1:altLabel "Decision support (e.g., MIS)"@en,
+        "Logistics"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.4.2" ;
+    ns1:prefLabel "Types of Systems"@en .
+
+ccs:f29f9775-8843-4ce5-99f2-ba1d5f14f180 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D" ;
+    ns1:prefLabel "Software"@en .
+
+ccs:f350f192-221e-4ce7-8a3b-f51e2a609cd7 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.8.3" ;
+    ns1:prefLabel "Management/Maintenance"@en .
+
+ccs:f36a232d-c11a-4d9f-86be-eb037b13d0d0 a ns1:Concept ;
+    ns1:altLabel "Graphical environments"@en,
+        "Integrated environments"@en,
+        "Interactive environments"@en,
+        "Programmer workbench"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.2.6" ;
+    ns1:prefLabel "Programming Environments"@en .
+
+ccs:f3d2ad62-1c7b-49b1-96fc-3dda9073ae2b a ns1:Concept ;
+    ns1:altLabel "Asynchronous/synchronous operation"@en,
+        "Fiber optics"@en,
+        "Interfaces"@en,
+        "Parallel I/O"@en,
+        "Physical structures (e.g., backplanes, cables, chip carriers)"@en,
+        "Topology (e.g., bus, point-to-point)"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.3" ;
+    ns1:prefLabel "Interconnections (Subsystems)"@en .
+
+ccs:f3d991fe-d57d-4c99-a683-7d4e8a2c21f6 a ns1:Concept ;
+    ns1:altLabel "Formal models"@en,
+        "Simulation"@en,
+        "Worst-case analysis"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.3.3" ;
+    ns1:prefLabel "Performance Analysis and Design Aids (B.8, C.4)"@en .
+
+ccs:f41e4989-aa55-47bf-976b-ea132dfc354d a ns1:Concept ;
+    ns1:altLabel "Built-in tests"@en,
+        "Error-checking"@en,
+        "Redundant design"@en,
+        "Test generation"@en,
+        "Testability"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.6.2" ;
+    ns1:prefLabel "Reliability and Testing (B.8)"@en .
+
+ccs:f4bd34bc-e316-4362-90cb-7a5dc3ad9c32 a ns1:Concept ;
+    ns1:altLabel "Modeling methodologies"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.6.5" ;
+    ns1:prefLabel "Model Development"@en .
+
+ccs:f54162dd-ab7b-4200-afc9-37307b257afd a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "D.3" ;
+    ns1:prefLabel "PROGRAMMING LANGUAGES"@en .
+
+ccs:f57cb884-17b2-45b5-b871-dc6804e080d8 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.4" ;
+    ns1:prefLabel "IMAGE PROCESSING AND COMPUTER VISION"@en .
+
+ccs:f591ad4e-250d-41cb-bf04-04378cb72425 a ns1:Concept ;
+    ns1:altLabel "Algebraic language theory"@en,
+        "Classes defined by grammars or automata (e.g., context-free languages, regular sets, recursive sets)"@en,
+        "Classes defined by resource-bounded automata"@en,
+        "Decision problems"@en,
+        "Operations on languages"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4.3" ;
+    ns1:prefLabel "Formal Languages (D.3.1)"@en .
+
+ccs:f66ceae6-07f3-4848-aeda-61abb4fae859 a ns1:Concept ;
+    ns1:altLabel "Hardwired control"@en,
+        "Microprogrammed logic arrays"@en,
+        "Writable control store"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.1.1" ;
+    ns1:prefLabel "Control Design Styles"@en .
+
+ccs:f78f2014-4b3f-42bb-9f1d-9c30b88f576f a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.3" ;
+    ns1:prefLabel "COMPUTERS AND EDUCATION"@en .
+
+ccs:f7ce14fb-b6ba-4210-a69a-0108e00e4641 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.7.1" ;
+    ns1:prefLabel "Occupations"@en .
+
+ccs:f84858bc-e0c1-45a9-8248-9dbcaa5c771f a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4.0" ;
+    ns1:prefLabel "General"@en .
+
+ccs:f8743620-762d-490a-ba68-86450cc14a40 a ns1:Concept ;
+    ns1:altLabel "Cybercash, digital cash"@en,
+        "Distributed commercial transactions"@en,
+        "Electronic data interchange (EDI)"@en,
+        "Intellectual property"@en,
+        "Payment schemes"@en,
+        "Security"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "K.4.4" ;
+    ns1:prefLabel "Electronic Commerce (J.1)"@en .
+
+ccs:f8be7bec-3a72-4810-a46e-1a44d7123d2a a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "H.3" ;
+    ns1:prefLabel "INFORMATION STORAGE AND RETRIEVAL"@en .
+
+ccs:f8cd40e0-b398-49c8-a860-5c507c23a8b1 a ns1:Concept ;
+    ns1:altLabel "Channels and controllers"@en,
+        "Data terminals and printers"@en,
+        "Image display"@en,
+        "Voice"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4.2" ;
+    ns1:prefLabel "Input/Output Devices"@en .
+
+ccs:f9490e4c-ca82-4cdf-b32e-b7174cc83018 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.m" ;
+    ns1:prefLabel "MISCELLANEOUS"@en .
+
+ccs:f978f9ad-cf13-4999-8176-18af4e077a28 a ns1:Concept ;
+    ns1:altLabel "Domain decomposition methods"@en,
+        "Elliptic equations"@en,
+        "Finite difference methods"@en,
+        "Finite element methods"@en,
+        "Finite volume methods"@en,
+        "Hyperbolic equations"@en,
+        "Inverse problems"@en,
+        "Iterative solution techniques"@en,
+        "Method of lines"@en,
+        "Multigrid and multilevel methods"@en,
+        "Parabolic equations"@en,
+        "Spectral methods"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "G.1.8" ;
+    ns1:prefLabel "Partial Differential Equations"@en .
+
+ccs:f9e7c9b0-b066-43c6-95b8-20c19f0f80d7 a ns1:Concept ;
+    ns1:altLabel "Animation"@en,
+        "Color, shading, shadowing, and texture"@en,
+        "Fractals"@en,
+        "Hidden line/surface removal"@en,
+        "Radiosity"@en,
+        "Raytracing"@en,
+        "Virtual reality"@en,
+        "Visible line/surface algorithms"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.3.7" ;
+    ns1:prefLabel "Three-Dimensional Graphics and Realism"@en .
+
+ccs:facd39ff-9710-4f7c-a4ab-d440e552bf3f a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.4" ;
+    ns1:prefLabel "INPUT/OUTPUT AND DATA COMMUNICATIONS"@en .
+
+ccs:fc387559-e288-4687-a1da-65c5b8fea618 a ns1:Concept ;
+    ns1:altLabel "Computability theory"@en,
+        "Computational logic"@en,
+        "Lambda calculus and related systems"@en,
+        "Logic and constraint programming"@en,
+        "Mechanical theorem proving"@en,
+        "Modal logic"@en,
+        "Model theory"@en,
+        "Proof theory"@en,
+        "Recursive function theory"@en,
+        "Set theory"@en,
+        "Temporal logic"@en ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "F.4.1" ;
+    ns1:prefLabel "Mathematical Logic (F.1.1, I.2.2, I.2.3, I.2.4)"@en .
+
+ccs:fec197c7-90b1-47ce-b98f-0d10469522f7 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "I.5" ;
+    ns1:prefLabel "PATTERN RECOGNITION"@en .
+
+ccs:fed3e004-467f-4ff0-be74-8fc3d20b9ca3 a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "A.2" ;
+    ns1:prefLabel "REFERENCE (e.g., dictionaries, encyclopedias, glossaries)"@en .
+
+ccs:ffa64556-d0b9-411b-be99-b1efa30b4f8c a ns1:Concept ;
+    ns1:broader ccs:ec0db17a-5198-42a3-8ee6-7b9faa96c346 ;
+    ns1:notation "B.2.0" ;
+    ns1:prefLabel "General"@en .
+

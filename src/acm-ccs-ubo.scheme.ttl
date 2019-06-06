@@ -1,0 +1,30 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix lexvo: <http://lexvo.org/id/iso639-3/> .
+@prefix bs: <http://data.ub.uio.no/onto/bs#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix isothes: <http://purl.org/iso25964/skos-thes#> .
+@prefix realfagstermer: <http://data.ub.uio.no/realfagstermer/> .
+@prefix tekord: <http://ntnu.no/ub/data/tekord#> .
+@prefix library: <http://data.ub.uio.no/library/> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+
+<http://data.ub.uio.no/acm-ccs-ubo/> a skos:ConceptScheme ;
+    rdfs:label "ACM CCS/UBO"@nb,
+        "ACM CCS/UBO"@nn ,
+        "ACM CCS/UBO"@en ;
+    void:vocabulary skos: ;
+    dct:description "ACM Computing Classification System with University of Oslo Add-On is a classification scheme used at the University of Oslo Informatics Library, which is based on the ACM Computing Classification System (1998 edition?) with a local add-on (section Ø)."@en ;
+    dct:type <http://purl.org/dc/dcmitype/Dataset>,
+        <http://w3id.org/nkos/nkostype#classification_schema> ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:dataDump <http://data.ub.uio.no/dumps/acm-ccs-ubo.rdf>,
+        <http://data.ub.uio.no/dumps/acm-ccs-ubo.ttl> ;
+    void:uriSpace "http://data.ub.uio.no/acm-ccs-ubo/" ;
+    void:exampleResource <http://data.ub.uio.no/acm-ccs-ubo/> .
