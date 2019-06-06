@@ -1471,3 +1471,19 @@ K.8.2 Hardware
 K.8.3 Management/Maintenance
 K.8.m Miscellaneous
 K.m Miscellaneous
+Ø. Cyberbetics
+Ø.0 General
+Ø.1 Control theory, system theory
+Ø.1.0 General
+Ø.2 Communication theory and signal processing
+Ø.2.0 General
+Ø.2.1 Fourier analysis, correlation functions
+Ø.2.2 Statistical communications
+Signal processing
+Time series
+Filtering
+Ø.2.3 Applied communication and signal processing
+Ø.7. Biology
+Ø.7.0 General
+Ø.8 Fuzzy sets
+Ø.8.0 General

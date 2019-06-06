@@ -47,7 +47,7 @@ def add_concept(concept):
 
 with open('input.txt') as fp:
     for line in fp:
-        m = re.match(r'^([A-Z]\.([0-9m]\.?)*) (.+)$', line)
+        m = re.match(r'^([A-ZØ]\.([0-9m]\.?)*) (.+)$', line)
         if m:
             if concept is not None:
                 add_concept(concept)

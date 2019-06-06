@@ -150,6 +150,12 @@ ccs:c13d353cf-e310-4d2c-8bc6-9c7d337b77dd a skos:Concept ;
     skos:notation "I.7.3" ;
     skos:prefLabel "Index Generation"@en .
 
+ccs:c148558fc-1218-4603-8a9d-7bc665a2459e a skos:Concept ;
+    skos:broader ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.0" ;
+    skos:prefLabel "General"@en .
+
 ccs:c15854ed6-6dce-48e9-acc3-ee2901aea4f2 a skos:Concept ;
     skos:altLabel "Abuse and crime involving computers"@en,
         "Assistive technologies for persons with disabilities"@en,
@@ -277,6 +283,12 @@ ccs:c1e3ba33f-aa54-44cb-9355-c7f3cd41e029 a skos:Concept ;
     skos:inScheme ccs: ;
     skos:notation "G.1.6" ;
     skos:prefLabel "Optimization"@en .
+
+ccs:c1e472a5d-14df-4f9e-9439-367a9abb7a0e a skos:Concept ;
+    skos:broader ccs:ce138c4ac-a519-4c46-b55c-0af5fef4648c ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.7.0" ;
+    skos:prefLabel "General"@en .
 
 ccs:c1ed9bebb-e197-4492-89df-96dd0ecd3a71 a skos:Concept ;
     skos:altLabel "Coherence and coordination"@en,
@@ -1191,6 +1203,12 @@ ccs:c68eb6277-234f-40cf-bd96-fe19e03711ff a skos:Concept ;
     skos:notation "I.1.0" ;
     skos:prefLabel "General"@en .
 
+ccs:c694570a6-16f8-44f4-bc16-5fbf409b3c9a a skos:Concept ;
+    skos:broader ccs:c37ad8894-427d-4c6d-a019-daffd00317c0 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.2.3" ;
+    skos:prefLabel "Applied communication and signal processing"@en .
+
 ccs:c69aac51c-d106-4330-8906-d38cd1aef6da a skos:Concept ;
     skos:altLabel "Data dictionary/directory"@en,
         "Data warehouse and repository"@en,
@@ -1380,6 +1398,12 @@ ccs:c7700a8aa-c6f6-4b5c-8256-ff767e99e667 a skos:Concept ;
     skos:inScheme ccs: ;
     skos:notation "H.2.5" ;
     skos:prefLabel "Heterogeneous Databases"@en .
+
+ccs:c7770d8d0-6e41-43c9-b135-081db106d5a9 a skos:Concept ;
+    skos:broader ccs:c4e4279c2-a30b-4013-b2e8-9ae9c4dd7e2f ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.1.0" ;
+    skos:prefLabel "General"@en .
 
 ccs:c77751829-ab68-4575-8454-b56a22bda31d a skos:Concept ;
     skos:altLabel "Computer-aided design (CAD)"@en,
@@ -2040,6 +2064,15 @@ ccs:ca7ff6f15-2306-4148-ba39-52968486f161 a skos:Concept ;
     skos:notation "I.5.0" ;
     skos:prefLabel "General"@en .
 
+ccs:ca8f472b3-69cb-4dd4-97f4-6595b974bbb2 a skos:Concept ;
+    skos:altLabel "Filtering"@en,
+        "Signal processing"@en,
+        "Time series"@en ;
+    skos:broader ccs:c37ad8894-427d-4c6d-a019-daffd00317c0 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.2.2" ;
+    skos:prefLabel "Statistical communications"@en .
+
 ccs:cac76f578-8c6a-4ea7-923b-0e17de6f0481 a skos:Concept ;
     skos:broader ccs:c1c60b860-d5cd-4250-a739-01ce25395b99 ;
     skos:inScheme ccs: ;
@@ -2108,6 +2141,12 @@ ccs:cb0552961-53db-4c88-a6ab-9cb8493f0a48 a skos:Concept ;
     skos:notation "I.m" ;
     skos:prefLabel "Miscellaneous"@en .
 
+ccs:cb1155769-ad01-4173-a48f-08f98ec8565a a skos:Concept ;
+    skos:broader ccs:c37ad8894-427d-4c6d-a019-daffd00317c0 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.2.1" ;
+    skos:prefLabel "Fourier analysis, correlation functions"@en .
+
 ccs:cb144532c-e6b1-4c69-9a73-f5faf95565d5 a skos:Concept ;
     skos:altLabel "Complexity hierarchies"@en,
         "Machine-independent complexity"@en,
@@ -2171,6 +2210,12 @@ ccs:cb5220f1b-1531-41b0-a73e-a17122bbf818 a skos:Concept ;
     skos:inScheme ccs: ;
     skos:notation "G.2.m" ;
     skos:prefLabel "Miscellaneous"@en .
+
+ccs:cb5e23dba-3b70-4a03-a2f9-354abcac642b a skos:Concept ;
+    skos:broader ccs:c37ad8894-427d-4c6d-a019-daffd00317c0 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.2.0" ;
+    skos:prefLabel "General"@en .
 
 ccs:cb68e6fbd-c699-443d-8a86-eee4de1aa336 a skos:Concept ;
     skos:broader ccs:c65a1aaa1-6690-4714-828e-a77d3157d315 ;
@@ -2640,6 +2685,12 @@ ccs:ce12c7fe7-e25a-4c82-bbe9-204153ab9e86 a skos:Concept ;
     skos:notation "K.2" ;
     skos:prefLabel "History of Computing"@en .
 
+ccs:ce20c9162-4b99-44a6-a74a-6c0527234d3f a skos:Concept ;
+    skos:broader ccs:c2692f59a-f8f8-4983-b895-3ab9a8d50072 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.8.0" ;
+    skos:prefLabel "General"@en .
+
 ccs:ce236daf5-fade-49eb-ac5b-bc341db51bc6 a skos:Concept ;
     skos:altLabel "Conditioning"@en,
         "Determinants"@en,
@@ -3017,6 +3068,30 @@ ccs:cfffa418c-b811-4706-8795-873175c817b7 a skos:Concept ;
     skos:notation "D.3.2" ;
     skos:prefLabel "Language Classifications"@en .
 
+ccs:c2692f59a-f8f8-4983-b895-3ab9a8d50072 a skos:Concept ;
+    skos:broader ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.8" ;
+    skos:prefLabel "Fuzzy sets"@en .
+
+ccs:c4e4279c2-a30b-4013-b2e8-9ae9c4dd7e2f a skos:Concept ;
+    skos:broader ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.1" ;
+    skos:prefLabel "Control theory, system theory"@en .
+
+ccs:ce138c4ac-a519-4c46-b55c-0af5fef4648c a skos:Concept ;
+    skos:broader ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.7" ;
+    skos:prefLabel "Biology"@en .
+
+ccs:c37ad8894-427d-4c6d-a019-daffd00317c0 a skos:Concept ;
+    skos:broader ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø.2" ;
+    skos:prefLabel "Communication theory and signal processing"@en .
+
 ccs:c3bd62a9e-64c2-4a54-be4f-aecfeb4f98de a skos:Concept ;
     skos:inScheme ccs: ;
     skos:notation "A" ;
@@ -3046,6 +3121,12 @@ ccs:cc93123d1-846e-417b-aa2d-84e9b1a27af3 a skos:Concept ;
     skos:inScheme ccs: ;
     skos:notation "H.1" ;
     skos:prefLabel "Models and principles"@en .
+
+ccs:c16b44719-fb26-4978-ba4a-dda209e33e11 a skos:Concept ;
+    skos:inScheme ccs: ;
+    skos:notation "Ø" ;
+    skos:prefLabel "Cyberbetics"@en ;
+    skos:topConceptOf ccs: .
 
 ccs:c4cca765a-fa3b-4f35-9fdb-9ada272b8543 a skos:Concept ;
     skos:broader ccs:c431c97ae-bee2-4db7-bd00-e957fc13c026 ;
