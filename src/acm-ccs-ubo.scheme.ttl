@@ -20,7 +20,7 @@
         "ACM CCS/UBO"@nn ,
         "ACM CCS/UBO"@en ;
     void:vocabulary skos: ;
-    dct:description "ACM Computing Classification System with University of Oslo Add-On is a classification scheme used at the University of Oslo Informatics Library, which is based on the ACM Computing Classification System (1998 edition?) with a local add-on (section Ø)."@en ;
+    dct:description "1998 version of the ACM Computing Classification System (CCS), with a small cybernetics add-on from the University of Oslo Informatics Library."@en ;
     dct:type <http://purl.org/dc/dcmitype/Dataset>,
         <http://w3id.org/nkos/nkostype#classification_schema> ;
     void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;

@@ -1,19 +1,23 @@
+import sys
 import uuid
 import re
 import yaml
 from rdflib import Graph, Literal
 from rdflib.namespace import SKOS, RDF, Namespace
 
-g = Graph()
-concept = None
+namespace = Namespace('http://data.ub.uio.no/acm-ccs-ubo/')
+IDS_FILE = sys.argv[1]
+TXT_FILE = sys.argv[2]
+TTL_FILE = sys.argv[3]
 
-with open('ids.yml', 'r', encoding='utf-8') as fp:
+with open(IDS_FILE, 'r', encoding='utf-8') as fp:
     uuids = yaml.safe_load(fp) or {}
 
-VOC = Namespace('http://data.ub.uio.no/acm-ccs-ubo/')
-scheme = VOC['']
+scheme = namespace['']
+concept = None
 
-g.namespace_manager.bind('ccs', VOC)
+g = Graph()
+g.namespace_manager.bind('ccs', namespace)
 g.namespace_manager.bind('skos', SKOS)
 
 
@@ -26,7 +30,7 @@ def get_id(notation):
 
 
 def get_uri(notation):
-    return VOC[get_id(notation)]
+    return namespace[get_id(notation)]
 
 
 def add_concept(concept):
@@ -44,8 +48,7 @@ def add_concept(concept):
         g.add((c, SKOS.topConceptOf, scheme))
 
 
-
-with open('input.txt') as fp:
+with open(TXT_FILE, 'r', encoding='utf-8') as fp:
     for line in fp:
         m = re.match(r'^([A-ZØ]\.([0-9m]\.?)*) (.+)$', line)
         if m:
@@ -70,10 +73,9 @@ with open('input.txt') as fp:
 if concept is not None:
     add_concept(concept)
 
-print(len(g))
-# print(uuids)
+print('Converted %d concepts' % len(g))
 
-with open('ids.yml', 'w', encoding='utf-8') as fp:
+with open(IDS_FILE, 'w', encoding='utf-8') as fp:
     yaml.dump(uuids, fp)
 
-g.serialize('acm-ccs-ubo.ttl', format='turtle')
+g.serialize(TTL_FILE, format='turtle')

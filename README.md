@@ -1,12 +1,17 @@
-ACM Computing Classification System (A-K) with University of Oslo Informatics Library Add-On (Ø)
+1998 version of the ACM Computing Classification System (CCS),
+with a small cybernetics add-on from the University of Oslo Informatics Library.
 
-Part A-K from *The ACM Computing Classification System (1998)*
-https://web.archive.org/web/20120308005757/http://www.acm.org/about/class/ccs98-html
+### Sources
 
-Part Ø from https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/emnesok/syst-oe.html
+- `src/ccs1998.txt`: *The ACM Computing Classification System (1998)* from
+  https://web.archive.org/web/20120308005757/http://www.acm.org/about/class/ccs98-html
 
+- `src/cybernetics.txt`: Cybernetics add-on from
+  https://www.ub.uio.no/fag/naturvitenskap-teknologi/informatikk/emnesok/syst-oe.html
 
-Build:
+### Building
 
-- cd src && python process.py
-- doit
+The Turtle version is build using [doit](https://pydoit.org/).
+
+1. Run `pip install -r requirements.txt` to install dependencies.
+2. Run `doit build` to build RDF versions from the TXT sources.

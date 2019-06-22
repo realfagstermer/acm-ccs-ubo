@@ -24,17 +24,37 @@ config = {
 }
 
 
+def task_txt2ttl():
+    return {
+        'doc': 'Convert txt files to ttl',
+        'actions': [
+            'mkdir -p dist',
+            'python txt2ttl.py src/ids.yml src/ccs1998.txt dist/ccs1998.ttl',
+            'python txt2ttl.py src/ids.yml src/cybernetics.txt dist/cybernetics.ttl',
+        ],
+        'file_dep': [
+            'src/ccs1998.txt',
+            'src/cybernetics.txt',
+        ],
+        'targets': [
+            'dist/ccs1998.ttl',
+            'dist/cybernetics.ttl',
+        ]
+    }
+
+
 def task_build():
     return {
         'doc': 'Run skosify',
         'actions': [
             'mkdir -p dist',
-            'skosify -c skosify.cfg -F turtle src/%(basename)s.scheme.ttl src/%(basename)s.ttl -o dist/%(basename)s.ttl' % config,
+            'skosify -c skosify.cfg -F turtle src/acm-ccs-ubo.scheme.ttl dist/ccs1998.ttl dist/cybernetics.ttl -o dist/%(basename)s.ttl' % config,
             'skosify -c skosify.cfg -F nt dist/%(basename)s.ttl -o dist/%(basename)s.nt' % config,
             'skosify -c skosify.cfg -F xml dist/%(basename)s.ttl -o dist/%(basename)s.rdf.xml' % config,
         ],
         'file_dep': [
-            'src/%(basename)s.ttl' % config
+            'dist/ccs1998.ttl',
+            'dist/cybernetics.ttl',
         ],
         'targets': [
             'dist/%(basename)s.ttl' % config,
@@ -42,14 +62,6 @@ def task_build():
             'dist/%(basename)s.rdf.xml' % config,
         ]
     }
-
-
-# def task_build_mappings():
-#     return data_ub_tasks.build_mappings_gen(
-#         ['src/%(basename)s.ttl' % config],
-#         'dist/%(basename)s.mappings.nt' % config,
-#         'http://data.ub.uio.no/acm-ccs-ubo'
-#     )
 
 
 def task_publish_dumps():
