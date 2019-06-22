@@ -6,6 +6,8 @@ from rdflib import Graph, Literal
 from rdflib.namespace import SKOS, RDF, Namespace
 
 namespace = Namespace('http://data.ub.uio.no/acm-ccs-ubo/')
+LOCAL = Namespace('http://data.ub.uio.no/onto#')
+
 IDS_FILE = sys.argv[1]
 TXT_FILE = sys.argv[2]
 TTL_FILE = sys.argv[3]
@@ -36,6 +38,8 @@ def get_uri(notation):
 def add_concept(concept):
     c = get_uri(concept['notation'])
     g.add((c, RDF.type, SKOS.Concept))
+    if len(concept['notation']) == 1:
+        g.add((c, RDF.type, LOCAL.KnuteTerm))
     g.add((c, SKOS.inScheme, scheme))
     g.add((c, SKOS.notation, Literal(concept['notation'])))
     g.add((c, SKOS.prefLabel, Literal(concept['pref'], 'en')))
